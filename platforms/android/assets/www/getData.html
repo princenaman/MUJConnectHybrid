@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Fetch Data</title>
+</head>
+<body>
+<input type="text" id="search">
+<button onclick="getData()"></button>
+<div id="data">
+</div>
+ <script type="text/javascript" src="js/jquery.min.js"></script>
+ <script type="text/javascript">
+ 	function getData(){
+ 		var str = document.getElementById('search').value;
+ 		$.ajax({
+			type: "GET",
+			url: "http://namankhator.com/mujConnect/json.php?requestType=search&st="+str,
+			success: function(data) {
+					document.getElementById('data').innerHTML = data;
+				}
+			});
+ 	}
+ </script>
+</body>
+</html>
