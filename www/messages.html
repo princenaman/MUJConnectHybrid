@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Messages</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  
+  <link rel="stylesheet" type="text/css" href="css/normalize.css">
+  <link rel="stylesheet" type="text/css" href="css/framework.css">
+  <link rel="stylesheet" type="text/css" href="css/washington.css">
+  <link rel="stylesheet" type="text/css" href="css/events.css">
+  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+  <script src="js/webfont.js"></script>
+  <script>
+    WebFont.load({
+      google: {
+        families: ["Montserrat:400,700"]
+      }
+    });
+  </script>
+  <script type="text/javascript" src="js/modernizr.js"></script>
+  <link rel="shortcut icon" type="image/x-icon" href="images/logoStandford32.ico">
+  <link rel="apple-touch-icon" href="images/logoStandford32.ico">
+
+  <link href="css/ionicons.min.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <section class="w-section mobile-wrapper">
+
+    <div class="page-content" id="main-stack">
+      <div class="w-nav navbar" data-collapse="all" data-animation="over-left" data-duration="400" data-contain="1" data-easing="ease-out-quint" data-no-scroll="1">
+        <div class="w-container">
+          <nav class="w-nav-menu nav-menu" role="navigation" id="muj-sidebar">
+          </nav>
+          <div class="wrapper-mask" data-ix="menu-mask"></div>
+          <div class="navbar-title">Faculty</div>
+          <div class="w-nav-button navbar-button left" id="menu-button" data-ix="hide-navbar-icons">
+            <div class="navbar-button-icon home-icon">
+              <div class="bar-home-icon"></div>
+              <div class="bar-home-icon"></div>
+              <div class="bar-home-icon"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="body">
+      	<div class="w-form padding">
+          <form id="submit-form" name="search-form" data-name="Search Form" action="#">
+            <div>
+              <input class="w-input input-form" id="search-field" type="text" name="text" data-name="text" placeholder="Search for a faculty" required="required">
+              <div class="separator-button"></div>
+            </div>
+            <input class="w-button action-button" type="button" onclick="getData()" value="Search" data-wait="Please wait...">
+          </form>
+          <div class="w-form-done" id="data">
+            <p>Thank you! Your submission has been received!</p>
+          </div>
+          <div class="w-form-fail">
+            <p>Oops! Something went wrong while submitting the form</p>
+          </div>
+        </div>
+        <ul class="timeline" id="facultyList">
+          	<li>
+				Loading....
+			</li>
+			<!-- <li class="event"><input type="radio" name="tl-group"/><div class="content-perspective"><div class="content"><div class="content-inner"><h3>Naman<div class="image-message" style="float: right;"><img src="http://jaipur.manipal.edu/dam/manipal/muj/fod/profile/Abhas.jpg"></div></h3><p><i class="fa fa-envelope-o"></i> namankhator@gmail.com <br><i class="fa fa-phone"></i> +91-9680971075<br><i class="fa fa-university"></i> Faculty of Design<br><i class="fa fa-graduation-cap"></i> School of Architecture & Design <br><i class="fa fa-user"></i> Assistant Professor-I</p></div></div></div></li> -->
+        </ul>
+      </div>
+    </div>
+    <div class="page-content loading-mask" id="new-stack">
+      <div class="loading-icon">
+        <div class="navbar-button-icon icon ion-load-a"></div>
+      </div>
+    </div>
+    <div class="shadow-layer"></div>
+  </section>
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/framework.js"></script>
+  <script type="text/javascript" src="cordova.js"></script>
+  <!--[if lte IE 9]><script src="js/placeholders.min.js"></script><![endif]-->
+   <script type="text/javascript">
+	  var facultyJson = '';
+	  var loading = '<li>Loading....</li>';
+	  var eventRow =	'<li class="list-message" data-ix="list-item"><a class="w-clearfix w-inline-block" href="chat.html" data-load="1"><div class="w-clearfix column-left"><div class="image-message"><img src="images/128.jpg"></div></div><div class="column-right"><div class="message-title">James White</div><div class="message-text">Hey dude! We are waiting for you at the main station, we will meet you near to....</div></div></a></li>';
+	  function getObjects(obj, key, val) {
+	  		//alert(key);
+	  	    var objects = [];
+	  	    for (var i in obj) {
+	  	        if (!obj.hasOwnProperty(i)) continue;
+	  	        if (typeof obj[i] == 'object') {
+	  	            objects = objects.concat(getObjects(obj[i], key, val));
+	  	        } else if (i == key && obj[key] == val) {
+	  	            objects.push(obj);
+	  	        }
+	  	    }
+	  	    return objects;
+	  	}
+	  	function getData(){
+	  		document.getElementById('facultyList').innerHTML = loading;
+			var str = document.getElementById('search-field').value;
+			if(str == '')
+				str = 'dr';
+			var facultyData = '';
+			var data = facultyJson;
+			for(var i = 0; i < facultyJson.length; i++){
+				if (facultyJson[i]['name'].toLowerCase().indexOf(str) >= 0){
+					var fName = data[i]['name'];
+					var fDesignation = data[i]['designation'];
+					var fDepartment = data[i]['department'];
+					var fInstitute = data[i]['institute'];
+					var fEmail = data[i]['email'];
+					var fPhone = data[i]['phone'];
+					var fImage = data[i]['image'];
+					var facultyRow =	'<li class="event"><input type="radio" name="tl-group"/><div class="content-perspective"><div class="content"><div class="content-inner"><h3>'+fName+'<div class="image-message" style="float: right;"><img src="'+fImage+'"></div></h3><p><i class="fa fa-envelope-o"></i> '+fEmail+' <br><i class="fa fa-phone"></i> '+fPhone+'<br><i class="fa fa-university"></i> '+fInstitute+'<br><i class="fa fa-graduation-cap"></i> '+fDepartment+'<br><i class="fa fa-user"></i> '+fDesignation+'</p></div></div></div></li>';
+					facultyData += facultyRow;
+				}
+			}
+			document.getElementById('facultyList').innerHTML = facultyData;
+		}
+	  document.addEventListener("deviceready", function(){
+		  	function getSidebar(){
+				$.ajax({
+					type: "GET",
+					url: "sidebar.html",
+					success: function(data) {
+							document.getElementById('muj-sidebar').innerHTML = data;
+						}
+					});
+			}
+			jQuery.getJSON("json/faculty.json", function(data){
+				getSidebar();
+				var facultyData = '';
+				facultyJson = data;
+				for(var i = 0; i < facultyJson.length; i++){
+					if (facultyJson[i]['designation'].toLowerCase().indexOf('head') >= 0){
+						var fName = data[i]['name'];
+						var fDesignation = data[i]['designation'];
+						var fDepartment = data[i]['department'];
+						var fInstitute = data[i]['institute'];
+						var fEmail = data[i]['email'];
+						var fPhone = data[i]['phone'];
+						var fImage = data[i]['image'];
+						var facultyRow =	'<li class="event"><input type="radio" name="tl-group"/><div class="content-perspective"><div class="content"><div class="content-inner"><h3>'+fName+'<div class="image-message" style="float: right;"><img src="'+fImage+'"></div></h3><p><i class="fa fa-envelope-o"></i> '+fEmail+' <br><i class="fa fa-phone"></i> '+fPhone+'<br><i class="fa fa-university"></i> '+fInstitute+'<br><i class="fa fa-graduation-cap"></i> '+fDepartment+'<br><i class="fa fa-user"></i> '+fDesignation+'</p></div></div></div></li>';
+						facultyData += facultyRow;
+					}
+				}
+				document.getElementById('facultyList').innerHTML = facultyData;
+				//$('#facultyList').append(facultyData);
+				
+				$(".urlClass").on("click", function(){
+					var element = $(this).children("input:hidden");
+					var url = element.val();
+					var ref = window.open(url, '_system');
+				});
+			});		
+	 },true);
+  </script>
+</body>
+</html>

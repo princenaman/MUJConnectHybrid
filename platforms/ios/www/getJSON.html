@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>Search</title>
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" type="text/css" href="css/normalize.css">
+<link rel="stylesheet" type="text/css" href="css/framework.css">
+<link rel="stylesheet" type="text/css" href="css/washington.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+<script src="js/webfont.js"></script>
+<script>
+	WebFont.load({
+		google : {
+			families : [ "Montserrat:400,700" ]
+		}
+	});
+</script>
+<script type="text/javascript" src="js/modernizr.js"></script>
+<link rel="shortcut icon" type="image/x-icon"
+	href="images/logoStandford32.ico">
+<link rel="apple-touch-icon" href="images/logoStandford32.ico">
+
+<link href="css/ionicons.min.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<section class="w-section mobile-wrapper">
+
+		<div class="page-content" id="main-stack">
+	      <div class="w-nav navbar" data-collapse="all" data-animation="over-left" data-duration="400" data-contain="1" data-easing="ease-out-quint" data-no-scroll="1">
+	        <div class="w-container">
+	          <nav class="w-nav-menu nav-menu" role="navigation" id="muj-sidebar">
+	          </nav>
+	          <div class="wrapper-mask" data-ix="menu-mask"></div>
+	          <div class="navbar-title">Sync Data &#43;&#57;&#49;&#45;&#56;&#56;&#50;&#57;&#48;&#48;&#52;&#53;&#56;&#55;</div>
+	          <div class="w-nav-button navbar-button left" id="menu-button" data-ix="hide-navbar-icons">
+	            <div class="navbar-button-icon home-icon">
+	              <div class="bar-home-icon"></div>
+	              <div class="bar-home-icon"></div>
+	              <div class="bar-home-icon"></div>
+	            </div>
+	          </div>
+	          <!-- <a class="w-inline-block navbar-button right" href="addnew.html" data-loader="1">
+	            <div class="navbar-button-icon icon ion-ios-plus-empty"></div>
+	          </a> -->
+	        </div>
+	      </div>
+	      <div class="body">
+	      	<button onclick="saveText()" id="syncBtn">Sync</button>
+			<div id="data"></div>
+	      </div>
+	    </div>
+		<div class="page-content loading-mask" id="new-stack">
+			<div class="loading-icon">
+				<div class="navbar-button-icon icon ion-load-a"></div>
+			</div>
+		</div>
+		<div class="shadow-layer"></div>
+	</section>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/framework.js"></script>
+	<script type="text/javascript" src="cordova.js"></script>
+	<script type="text/javascript">
+		var FILENAME = 'events.json'
+			, failCB = function(msg) {
+			return function() {
+				alert('[FAIL] ' + msg);
+			}
+		}, file = {
+			writer : {
+				available : false
+			},
+			reader : {
+				available : false
+			}
+		}, dbEntries = []
+		, jsonData = '';
+		
+		document.addEventListener('deviceready', function() {
+			var fail = failCB('requestFileSystem');
+			window.requestFileSystem(LocalFileSystem.PERSISTENT, 0, gotFS,fail);
+			alert('try');
+		}, false);
+		function gotFS(fs) {
+			alert('File entry complete!');
+			 // Load the events.json file, create it if it doesn't exist
+			var fail = failCB('getFile');
+			fs.root.getFile(FILENAME, {
+				create : true,
+				exclusive : false
+			}, gotFileEntry, fail);
+		}
+		function gotFileEntry(fileEntry) {
+			alert('Got File Entry!');
+			// set up the fileWriter
+			var fail = failCB('createWriter');
+			file.entry = fileEntry;
+			fileEntry.createWriter(gotFileWriter, fail);
+			readText();
+		}
+		function gotFileWriter(fileWriter) {
+			// store the fileWriter in a
+            // global variable so we have it
+            // when the user presses save 
+			alert('Got file writer!');
+			file.writer.available = true;
+			file.writer.object = fileWriter;
+			// Get JSON Data programatically // 
+			saveText();
+		}
+		function saveText(e) {
+			var fail;
+			// make sure the fileWriter is set 
+			if (file.writer.available) {
+				file.writer.available = false;
+				file.writer.object.onwriteend = function(evt) {
+					file.writer.available = true;
+					file.writer.object.seek(0);
+				}
+				var str = 'mujEvents';
+		 		$.ajax({
+					type: "GET",
+					url: "http://192.168.0.103/nk/json.php?requestType="+str,
+					success: function(data) {
+							jsonData = data;
+							file.writer.object.write(jsonData);
+						}
+					});
+			}else{
+				alert('No file writer');
+			}
+			return false;
+		}
+		function readText() {
+			if (file.entry) {
+				file.entry
+						.file(
+								function(dbFile) {
+									var reader = new FileReader();
+									reader.onloadend = function(evt) {
+										var data = JSON.parse(evt.target.result);
+										var eventData = '';
+										for ( var i = 0; i < data.length; i++) {
+											var eID = data[i]['_id'];
+											var eName = data[i]['name'];
+											var eDate = data[i]['date'];
+											var eStart = data[i]['startTime'];
+											var eEnd = data[i]['endTime'];
+											var eDescription = data[i]['description'];
+											var eURL = data[i]['url'];
+											var eVenue = data[i]['venue'];
+											var eCategory = data[i]['category'];
+											var eSource = data[i]['source'];
+											var eIsVerified = data[i]['isVerified'];
+											var eFeatured = data[i]['featured'];
+											var eImage = data[i]['image'];
+											var eventRow = '<li class="event"><div class="content-perspective"><div class="content"><div class="content-inner"><h3>'
+													+ eName
+													+ '</h3><p><i class="fa fa-calendar-check-o"></i> '
+													+ eDate
+													+ ' &nbsp;|&nbsp; <i class="fa fa-clock-o"></i> '
+													+ eStart
+													+ '<br><i class="fa fa-globe"></i> '
+													+ eVenue
+													+ '<br><i class="fa fa-info-circle"></i> '
+													+ eDescription
+													+ '<br><i class="fa fa-tags"></i> '
+													+ eCategory
+													+ ' &nbsp;|&nbsp; <span class="urlClass"><i class="fa fa-external-link"></i> <input type="hidden" class="url" value="'+eURL+'">Read More</span></p></div></div></div></li>';
+											eventData += eventRow;
+											//document.getElementById('eventList').innerHTML = eventRow;
+										}
+										document.getElementById('data').innerHTML = eventData;
+									}
+									reader.readAsText(dbFile);
+								}, failCB("FileReader"));
+			}
+			return false;
+		}
+		
+		var fail = function(evt) {
+			alert(evt);
+		    alert(error.code);
+		};
+	</script>
+	<!--[if lte IE 9]><script src="js/placeholders.min.js"></script><![endif]-->
+</body>
+</html>

@@ -1,0 +1,1346 @@
+2016-03-26 01:01:58.161 PhoneGapTrial[49745:882730] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/4E9FAAD9-F1F8-4A37-A19D-7092F37CFABD/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:01:58.725 PhoneGapTrial[49745:882730] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:01:58.725 PhoneGapTrial[49745:882730] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:01:58.756 PhoneGapTrial[49745:882730] Unlimited access to network resources
+2016-03-26 01:01:58.782 PhoneGapTrial[49745:882730] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:02:00.231 PhoneGapTrial[49745:882730] Resetting plugins due to page load.
+2016-03-26 01:02:00.972 PhoneGapTrial[49745:882730] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/DC28523C-76B6-4BC6-83D4-B0DC28104659/PhoneGapTrial.app/www/index.html
+2016-03-26 01:02:04.649 PhoneGapTrial[49745:882730] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79eee650
+2016-03-26 01:02:04.660 PhoneGapTrial[49745:882730] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79eee650
+2016-03-26 01:02:06.086 PhoneGapTrial[49745:882730] Resetting plugins due to page load.
+2016-03-26 01:02:06.169 PhoneGapTrial[49745:882730] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/DC28523C-76B6-4BC6-83D4-B0DC28104659/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:02:07.832 PhoneGapTrial[49745:882730] Resetting plugins due to page load.
+2016-03-26 01:02:07.832 PhoneGapTrial[49745:882730] IAB.close() called but it was already closed.
+2016-03-26 01:02:15.266 PhoneGapTrial[49745:882730] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:04:01.651 PhoneGapTrial[49745:882730] Resetting plugins due to page load.
+2016-03-26 01:04:01.652 PhoneGapTrial[49745:882730] IAB.close() called but it was already closed.
+2016-03-26 01:04:07.911 PhoneGapTrial[49745:882730] Finished load of: https://www.mycampusdays.com/S/Mcd_ResidentPage.php
+2016-03-26 01:04:09.022 PhoneGapTrial[49745:882730] Resetting plugins due to page load.
+2016-03-26 01:04:09.022 PhoneGapTrial[49745:882730] IAB.close() called but it was already closed.
+2016-03-26 01:04:12.729 PhoneGapTrial[49745:882730] Finished load of: https://www.mycampusdays.com/S/Mcd_ComplaintsList.php
+2016-03-26 01:21:46.548 PhoneGapTrial[51220:894458] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/53AD7E39-2637-40F5-A297-0FDC1A1D0307/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:21:46.999 PhoneGapTrial[51220:894458] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:21:46.999 PhoneGapTrial[51220:894458] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:21:47.077 PhoneGapTrial[51220:894458] Unlimited access to network resources
+2016-03-26 01:21:47.100 PhoneGapTrial[51220:894458] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:21:48.110 PhoneGapTrial[51220:894458] Resetting plugins due to page load.
+2016-03-26 01:21:48.697 PhoneGapTrial[51220:894458] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8C8DB1D8-7DBE-4976-94B0-1EE02FD04476/PhoneGapTrial.app/www/index.html
+2016-03-26 01:21:51.987 PhoneGapTrial[51220:894458] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b1d31a0
+2016-03-26 01:21:51.993 PhoneGapTrial[51220:894458] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b1d31a0
+2016-03-26 01:21:53.591 PhoneGapTrial[51220:894458] Resetting plugins due to page load.
+2016-03-26 01:21:53.656 PhoneGapTrial[51220:894458] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8C8DB1D8-7DBE-4976-94B0-1EE02FD04476/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:21:55.379 PhoneGapTrial[51220:894458] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:21:55.379 PhoneGapTrial[51220:894458] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:21:55.380 PhoneGapTrial[51220:894458] Resetting plugins due to page load.
+2016-03-26 01:21:55.380 PhoneGapTrial[51220:894458] IAB.close() called but it was already closed.
+2016-03-26 01:21:55.414 PhoneGapTrial[51220:894458] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 01:21:55.415 PhoneGapTrial[51220:894458] Resetting plugins due to page load.
+2016-03-26 01:21:55.416 PhoneGapTrial[51220:894458] IAB.close() called but it was already closed.
+2016-03-26 01:21:58.022 PhoneGapTrial[51220:894458] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:22:16.647 PhoneGapTrial[51220:894458] Resetting plugins due to page load.
+2016-03-26 01:22:16.647 PhoneGapTrial[51220:894458] IAB.close() called but it was already closed.
+2016-03-26 01:22:18.313 PhoneGapTrial[51220:894458] Finished load of: https://www.mycampusdays.com/S/Mcd_ResidentPage.php
+2016-03-26 01:23:00.355 PhoneGapTrial[51220:894458] Resetting plugins due to page load.
+2016-03-26 01:23:00.355 PhoneGapTrial[51220:894458] IAB.close() called but it was already closed.
+2016-03-26 01:23:05.262 PhoneGapTrial[51220:894458] Finished load of: https://www.mycampusdays.com/S/Mcd_NewCalendar.php
+2016-03-26 01:24:04.424 PhoneGapTrial[51220:894458] +[_UIDictionaryManager _availableDefinitionDictionaries] returned nil. Error: Error Domain=ASError Code=21 "The operation couldn’t be completed. (ASError error 21 - Unable to copy asset information)" UserInfo=0x7b6b1b60 {NSDescription=Unable to copy asset information}
+2016-03-26 01:24:05.000 PhoneGapTrial[51220:894458] Unbalanced calls to begin/end appearance transitions for <_UIFallbackPresentationViewController: 0x7b6e6530>.
+2016-03-26 01:25:16.504 PhoneGapTrial[51746:897284] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/76B81DDB-A2F8-4A54-BD7E-8E261A99AE86/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:25:17.054 PhoneGapTrial[51746:897284] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:25:17.054 PhoneGapTrial[51746:897284] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:25:17.085 PhoneGapTrial[51746:897284] Unlimited access to network resources
+2016-03-26 01:25:17.099 PhoneGapTrial[51746:897284] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:25:18.039 PhoneGapTrial[51746:897284] Resetting plugins due to page load.
+2016-03-26 01:25:18.569 PhoneGapTrial[51746:897284] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/74B6F6B9-C1BC-43F9-B927-3D3D14F518EC/PhoneGapTrial.app/www/index.html
+2016-03-26 01:25:22.139 PhoneGapTrial[51746:897284] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a628650
+2016-03-26 01:25:22.145 PhoneGapTrial[51746:897284] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a628650
+2016-03-26 01:25:24.021 PhoneGapTrial[51746:897284] Resetting plugins due to page load.
+2016-03-26 01:25:24.106 PhoneGapTrial[51746:897284] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/74B6F6B9-C1BC-43F9-B927-3D3D14F518EC/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:25:26.145 PhoneGapTrial[51746:897284] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:25:26.146 PhoneGapTrial[51746:897284] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:25:26.146 PhoneGapTrial[51746:897284] Resetting plugins due to page load.
+2016-03-26 01:25:26.146 PhoneGapTrial[51746:897284] IAB.close() called but it was already closed.
+2016-03-26 01:25:26.173 PhoneGapTrial[51746:897284] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 01:25:26.173 PhoneGapTrial[51746:897284] Resetting plugins due to page load.
+2016-03-26 01:25:26.174 PhoneGapTrial[51746:897284] IAB.close() called but it was already closed.
+2016-03-26 01:25:28.602 PhoneGapTrial[51746:897284] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:27:44.150 PhoneGapTrial[52159:899767] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/FB7DA691-BFBF-4CE8-BB85-51FA9262A530/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:27:44.303 PhoneGapTrial[52159:899767] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:27:44.303 PhoneGapTrial[52159:899767] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:27:44.307 PhoneGapTrial[52159:899767] Unlimited access to network resources
+2016-03-26 01:27:44.310 PhoneGapTrial[52159:899767] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:27:44.665 PhoneGapTrial[52159:899767] Resetting plugins due to page load.
+2016-03-26 01:27:44.994 PhoneGapTrial[52159:899767] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/808A1D3E-FA3A-4997-8DD0-57B33578DDB0/PhoneGapTrial.app/www/index.html
+2016-03-26 01:27:52.779 PhoneGapTrial[52159:899767] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c1bc210
+2016-03-26 01:27:52.780 PhoneGapTrial[52159:899767] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c1bc210
+2016-03-26 01:27:57.213 PhoneGapTrial[52159:899767] Resetting plugins due to page load.
+2016-03-26 01:27:57.278 PhoneGapTrial[52159:899767] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/808A1D3E-FA3A-4997-8DD0-57B33578DDB0/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:28:00.509 PhoneGapTrial[52159:899767] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:28:00.510 PhoneGapTrial[52159:899767] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:28:00.510 PhoneGapTrial[52159:899767] Resetting plugins due to page load.
+2016-03-26 01:28:00.511 PhoneGapTrial[52159:899767] IAB.close() called but it was already closed.
+2016-03-26 01:28:00.518 PhoneGapTrial[52159:899767] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 01:28:00.518 PhoneGapTrial[52159:899767] Resetting plugins due to page load.
+2016-03-26 01:28:00.518 PhoneGapTrial[52159:899767] IAB.close() called but it was already closed.
+2016-03-26 01:28:04.676 PhoneGapTrial[52159:899767] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:30:36.859 PhoneGapTrial[52159:901849] Terminating since there is no system app.
+2016-03-26 01:30:56.256 PhoneGapTrial[52626:902646] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/6792D0CD-233D-478A-B29C-D4AC4CB50CC7/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:30:56.419 PhoneGapTrial[52626:902646] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:30:56.420 PhoneGapTrial[52626:902646] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:30:56.424 PhoneGapTrial[52626:902646] Unlimited access to network resources
+2016-03-26 01:30:56.428 PhoneGapTrial[52626:902646] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:30:56.744 PhoneGapTrial[52626:902646] Resetting plugins due to page load.
+2016-03-26 01:30:57.045 PhoneGapTrial[52626:902646] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/0F4341BB-3DCD-4F72-9345-C62C41ECBEBB/PhoneGapTrial.app/www/index.html
+2016-03-26 01:31:25.460 PhoneGapTrial[52626:902646] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c1b25a0
+2016-03-26 01:31:25.461 PhoneGapTrial[52626:902646] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c1b25a0
+2016-03-26 01:31:27.311 PhoneGapTrial[52626:902646] Resetting plugins due to page load.
+2016-03-26 01:31:27.380 PhoneGapTrial[52626:902646] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/0F4341BB-3DCD-4F72-9345-C62C41ECBEBB/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:31:29.528 PhoneGapTrial[52626:902646] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:31:29.528 PhoneGapTrial[52626:902646] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:31:29.529 PhoneGapTrial[52626:902646] Resetting plugins due to page load.
+2016-03-26 01:31:29.530 PhoneGapTrial[52626:902646] IAB.close() called but it was already closed.
+2016-03-26 01:31:29.547 PhoneGapTrial[52626:902646] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 01:31:29.548 PhoneGapTrial[52626:902646] Resetting plugins due to page load.
+2016-03-26 01:31:29.548 PhoneGapTrial[52626:902646] IAB.close() called but it was already closed.
+2016-03-26 01:31:31.863 PhoneGapTrial[52626:902646] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:37:13.549 PhoneGapTrial[52626:906959] Terminating since there is no system app.
+2016-03-26 01:37:29.632 PhoneGapTrial[53289:907837] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/C7358021-6480-40CE-8AC5-C049CCA4B0D9/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:37:29.825 PhoneGapTrial[53289:907837] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:37:29.826 PhoneGapTrial[53289:907837] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:37:29.828 PhoneGapTrial[53289:907837] Unlimited access to network resources
+2016-03-26 01:37:29.832 PhoneGapTrial[53289:907837] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:37:30.226 PhoneGapTrial[53289:907837] Resetting plugins due to page load.
+2016-03-26 01:37:30.560 PhoneGapTrial[53289:907837] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A2B29F86-3020-49F3-A399-30F7E5B8ECF6/PhoneGapTrial.app/www/index.html
+2016-03-26 01:37:42.578 PhoneGapTrial[53289:907837] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a6dc3e0
+2016-03-26 01:37:42.579 PhoneGapTrial[53289:907837] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a6dc3e0
+2016-03-26 01:37:44.199 PhoneGapTrial[53289:907837] Resetting plugins due to page load.
+2016-03-26 01:37:44.277 PhoneGapTrial[53289:907837] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A2B29F86-3020-49F3-A399-30F7E5B8ECF6/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:37:46.486 PhoneGapTrial[53289:907837] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:37:46.486 PhoneGapTrial[53289:907837] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:37:46.487 PhoneGapTrial[53289:907837] Resetting plugins due to page load.
+2016-03-26 01:37:46.487 PhoneGapTrial[53289:907837] IAB.close() called but it was already closed.
+2016-03-26 01:37:46.502 PhoneGapTrial[53289:907837] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 01:37:46.502 PhoneGapTrial[53289:907837] Resetting plugins due to page load.
+2016-03-26 01:37:46.502 PhoneGapTrial[53289:907837] IAB.close() called but it was already closed.
+2016-03-26 01:37:48.689 PhoneGapTrial[53289:907837] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:39:33.811 PhoneGapTrial[53677:910751] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/441439D0-74E7-4203-87B0-3477AF7C09F2/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:39:34.170 PhoneGapTrial[53677:910751] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:39:34.171 PhoneGapTrial[53677:910751] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:39:34.204 PhoneGapTrial[53677:910751] Unlimited access to network resources
+2016-03-26 01:39:34.226 PhoneGapTrial[53677:910751] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:39:34.893 PhoneGapTrial[53677:910751] Resetting plugins due to page load.
+2016-03-26 01:39:35.605 PhoneGapTrial[53677:910751] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/1450F202-F772-453A-871D-02C754A701EC/PhoneGapTrial.app/www/index.html
+2016-03-26 01:39:40.057 PhoneGapTrial[53677:910751] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79e3af60
+2016-03-26 01:39:40.067 PhoneGapTrial[53677:910751] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79e3af60
+2016-03-26 01:39:41.864 PhoneGapTrial[53677:910751] Resetting plugins due to page load.
+2016-03-26 01:39:41.958 PhoneGapTrial[53677:910751] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/1450F202-F772-453A-871D-02C754A701EC/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:39:43.869 PhoneGapTrial[53677:910751] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:39:43.869 PhoneGapTrial[53677:910751] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:39:43.870 PhoneGapTrial[53677:910751] Resetting plugins due to page load.
+2016-03-26 01:39:43.870 PhoneGapTrial[53677:910751] IAB.close() called but it was already closed.
+2016-03-26 01:39:43.894 PhoneGapTrial[53677:910751] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 01:39:43.896 PhoneGapTrial[53677:910751] Resetting plugins due to page load.
+2016-03-26 01:39:43.896 PhoneGapTrial[53677:910751] IAB.close() called but it was already closed.
+2016-03-26 01:39:45.816 PhoneGapTrial[53677:910751] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:43:57.609 PhoneGapTrial[54200:915531] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/C30535AA-6BB3-4EB7-A438-D4ACAC3E863D/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:43:58.017 PhoneGapTrial[54200:915531] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:43:58.018 PhoneGapTrial[54200:915531] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:43:58.048 PhoneGapTrial[54200:915531] Unlimited access to network resources
+2016-03-26 01:43:58.071 PhoneGapTrial[54200:915531] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:43:58.959 PhoneGapTrial[54200:915531] Resetting plugins due to page load.
+2016-03-26 01:43:59.527 PhoneGapTrial[54200:915531] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/B01AEA91-FCE8-42AF-B4E5-595C9C90754F/PhoneGapTrial.app/www/index.html
+2016-03-26 01:44:03.362 PhoneGapTrial[54200:915531] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b7e1e50
+2016-03-26 01:44:03.367 PhoneGapTrial[54200:915531] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b7e1e50
+2016-03-26 01:44:04.899 PhoneGapTrial[54200:915531] Resetting plugins due to page load.
+2016-03-26 01:44:04.969 PhoneGapTrial[54200:915531] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/B01AEA91-FCE8-42AF-B4E5-595C9C90754F/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:44:06.589 PhoneGapTrial[54200:915531] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:44:06.590 PhoneGapTrial[54200:915531] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:44:06.590 PhoneGapTrial[54200:915531] Resetting plugins due to page load.
+2016-03-26 01:44:06.591 PhoneGapTrial[54200:915531] IAB.close() called but it was already closed.
+2016-03-26 01:44:06.622 PhoneGapTrial[54200:915531] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 01:44:06.622 PhoneGapTrial[54200:915531] Resetting plugins due to page load.
+2016-03-26 01:44:06.622 PhoneGapTrial[54200:915531] IAB.close() called but it was already closed.
+2016-03-26 01:44:09.061 PhoneGapTrial[54200:915531] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:44:52.797 PhoneGapTrial[54518:917147] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/7F4BF9A9-C72A-467E-95D0-676AD2148A27/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:44:52.967 PhoneGapTrial[54518:917147] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:44:52.968 PhoneGapTrial[54518:917147] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:44:52.970 PhoneGapTrial[54518:917147] Unlimited access to network resources
+2016-03-26 01:44:52.974 PhoneGapTrial[54518:917147] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:44:53.198 PhoneGapTrial[54518:917147] Resetting plugins due to page load.
+2016-03-26 01:44:53.476 PhoneGapTrial[54518:917147] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/701D0812-611B-4D92-9886-06F8E5BA1C0B/PhoneGapTrial.app/www/index.html
+2016-03-26 01:45:02.108 PhoneGapTrial[54518:917147] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79ec3260
+2016-03-26 01:45:02.109 PhoneGapTrial[54518:917147] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79ec3260
+2016-03-26 01:45:04.034 PhoneGapTrial[54518:917147] Resetting plugins due to page load.
+2016-03-26 01:45:04.112 PhoneGapTrial[54518:917147] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/701D0812-611B-4D92-9886-06F8E5BA1C0B/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:45:06.875 PhoneGapTrial[54518:917147] THREAD WARNING: ['InAppBrowser'] took '200.361084' ms. Plugin should use a background thread.
+2016-03-26 01:45:06.943 PhoneGapTrial[54518:917147] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:45:06.943 PhoneGapTrial[54518:917147] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:45:06.944 PhoneGapTrial[54518:917147] Resetting plugins due to page load.
+2016-03-26 01:45:08.117 PhoneGapTrial[54518:917147] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:45:24.455 PhoneGapTrial[54518:917147] Resetting plugins due to page load.
+2016-03-26 01:45:24.455 PhoneGapTrial[54518:917147] IAB.close() called but it was already closed.
+2016-03-26 01:45:26.232 PhoneGapTrial[54518:917147] Finished load of: https://www.mycampusdays.com/S/Mcd_ResidentPage.php
+2016-03-26 01:46:00.825 PhoneGapTrial[54850:918908] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/7E501A2E-878C-4BD7-98CE-07777AE2FE4C/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:46:00.989 PhoneGapTrial[54850:918908] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:46:00.989 PhoneGapTrial[54850:918908] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:46:00.992 PhoneGapTrial[54850:918908] Unlimited access to network resources
+2016-03-26 01:46:00.996 PhoneGapTrial[54850:918908] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:46:01.203 PhoneGapTrial[54850:918908] Resetting plugins due to page load.
+2016-03-26 01:46:01.486 PhoneGapTrial[54850:918908] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/9A59DB05-12FB-465F-9DBE-5A5276199BA2/PhoneGapTrial.app/www/index.html
+2016-03-26 01:46:31.947 PhoneGapTrial[54850:918908] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c085a50
+2016-03-26 01:46:31.955 PhoneGapTrial[54850:918908] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c085a50
+2016-03-26 01:46:33.691 PhoneGapTrial[54850:918908] Resetting plugins due to page load.
+2016-03-26 01:46:33.768 PhoneGapTrial[54850:918908] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/9A59DB05-12FB-465F-9DBE-5A5276199BA2/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:46:35.486 PhoneGapTrial[54850:918908] THREAD WARNING: ['InAppBrowser'] took '129.137207' ms. Plugin should use a background thread.
+2016-03-26 01:46:35.516 PhoneGapTrial[54850:918908] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:46:35.516 PhoneGapTrial[54850:918908] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:46:35.516 PhoneGapTrial[54850:918908] Resetting plugins due to page load.
+2016-03-26 01:46:36.856 PhoneGapTrial[54850:918908] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 01:49:55.961 PhoneGapTrial[55351:922429] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/80B426D5-BCD3-4010-BC0E-5CE41DB77EA8/Library/Cookies/Cookies.binarycookies
+2016-03-26 01:49:56.104 PhoneGapTrial[55351:922429] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 01:49:56.105 PhoneGapTrial[55351:922429] Multi-tasking -> Device: YES, App: YES
+2016-03-26 01:49:56.107 PhoneGapTrial[55351:922429] Unlimited access to network resources
+2016-03-26 01:49:56.111 PhoneGapTrial[55351:922429] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 01:49:56.421 PhoneGapTrial[55351:922429] Resetting plugins due to page load.
+2016-03-26 01:49:56.717 PhoneGapTrial[55351:922429] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/6E236F81-9540-4AFA-A429-5D7F187731A4/PhoneGapTrial.app/www/index.html
+2016-03-26 01:50:15.952 PhoneGapTrial[55351:922429] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7beb4cf0
+2016-03-26 01:50:15.952 PhoneGapTrial[55351:922429] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7beb4cf0
+2016-03-26 01:50:17.377 PhoneGapTrial[55351:922429] Resetting plugins due to page load.
+2016-03-26 01:50:17.439 PhoneGapTrial[55351:922429] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/6E236F81-9540-4AFA-A429-5D7F187731A4/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 01:50:19.317 PhoneGapTrial[55351:922429] THREAD WARNING: ['InAppBrowser'] took '108.620850' ms. Plugin should use a background thread.
+2016-03-26 01:50:19.345 PhoneGapTrial[55351:922429] CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:50:19.346 PhoneGapTrial[55351:922429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2016-03-26 01:50:19.346 PhoneGapTrial[55351:922429] Resetting plugins due to page load.
+2016-03-26 01:50:22.795 PhoneGapTrial[55351:922429] Finished load of: https://www.mycampusdays.com/S/Mcd_Login.php
+2016-03-26 12:05:56.478 PhoneGapTrial[59714:958933] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/3779929E-C0D2-4133-93D7-02C84455EAF3/Library/Cookies/Cookies.binarycookies
+2016-03-26 12:05:56.962 PhoneGapTrial[59714:958933] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 12:05:56.962 PhoneGapTrial[59714:958933] Multi-tasking -> Device: YES, App: YES
+2016-03-26 12:05:56.988 PhoneGapTrial[59714:958933] Unlimited access to network resources
+2016-03-26 12:05:57.004 PhoneGapTrial[59714:958933] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 12:05:57.944 PhoneGapTrial[59714:958933] Resetting plugins due to page load.
+2016-03-26 12:05:58.497 PhoneGapTrial[59714:958933] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A64C91D1-317E-4D5A-B7EB-AE7C94924FD8/PhoneGapTrial.app/www/index.html
+2016-03-26 12:06:06.120 PhoneGapTrial[59714:958933] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c08c400
+2016-03-26 12:06:06.132 PhoneGapTrial[59714:958933] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c08c400
+2016-03-26 12:06:07.726 PhoneGapTrial[59714:958933] Resetting plugins due to page load.
+2016-03-26 12:06:07.841 PhoneGapTrial[59714:958933] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A64C91D1-317E-4D5A-B7EB-AE7C94924FD8/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 12:07:19.367 PhoneGapTrial[60082:960961] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/E8566CE1-7124-45D9-BCFE-2B5B64C1D6BC/Library/Cookies/Cookies.binarycookies
+2016-03-26 12:07:19.512 PhoneGapTrial[60082:960961] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 12:07:19.513 PhoneGapTrial[60082:960961] Multi-tasking -> Device: YES, App: YES
+2016-03-26 12:07:19.515 PhoneGapTrial[60082:960961] Unlimited access to network resources
+2016-03-26 12:07:19.518 PhoneGapTrial[60082:960961] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 12:07:19.748 PhoneGapTrial[60082:960961] Resetting plugins due to page load.
+2016-03-26 12:07:20.067 PhoneGapTrial[60082:960961] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/0CD5C599-AF97-471C-AC22-B4160A133E51/PhoneGapTrial.app/www/index.html
+2016-03-26 12:07:23.613 PhoneGapTrial[60082:960961] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b121ef0
+2016-03-26 12:07:23.613 PhoneGapTrial[60082:960961] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b121ef0
+2016-03-26 12:07:25.256 PhoneGapTrial[60082:960961] Resetting plugins due to page load.
+2016-03-26 12:07:25.328 PhoneGapTrial[60082:960961] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/0CD5C599-AF97-471C-AC22-B4160A133E51/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 12:16:32.958 PhoneGapTrial[61075:970372] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/9B64C42A-3AB9-4E4B-9BFD-6E86B3146EC5/Library/Cookies/Cookies.binarycookies
+2016-03-26 12:16:33.182 PhoneGapTrial[61075:970372] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 12:16:33.182 PhoneGapTrial[61075:970372] Multi-tasking -> Device: YES, App: YES
+2016-03-26 12:16:33.191 PhoneGapTrial[61075:970372] Unlimited access to network resources
+2016-03-26 12:16:33.195 PhoneGapTrial[61075:970372] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 12:16:33.557 PhoneGapTrial[61075:970372] Resetting plugins due to page load.
+2016-03-26 12:16:33.928 PhoneGapTrial[61075:970372] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A2242E30-0BD2-43EE-8262-C928AFFBFEF2/PhoneGapTrial.app/www/index.html
+2016-03-26 12:16:41.574 PhoneGapTrial[61075:970372] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bf44260
+2016-03-26 12:16:41.584 PhoneGapTrial[61075:970372] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bf44260
+2016-03-26 12:16:43.003 PhoneGapTrial[61075:970372] Resetting plugins due to page load.
+2016-03-26 12:16:43.116 PhoneGapTrial[61075:970372] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A2242E30-0BD2-43EE-8262-C928AFFBFEF2/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 12:26:18.656 PhoneGapTrial[61075:977838] Terminating since there is no system app.
+2016-03-26 12:26:48.766 PhoneGapTrial[62064:978746] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/9BC53639-C767-4026-AE7B-4377634F8C3C/Library/Cookies/Cookies.binarycookies
+2016-03-26 12:26:49.380 PhoneGapTrial[62064:978746] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 12:26:49.381 PhoneGapTrial[62064:978746] Multi-tasking -> Device: YES, App: YES
+2016-03-26 12:26:49.420 PhoneGapTrial[62064:978746] Unlimited access to network resources
+2016-03-26 12:26:49.439 PhoneGapTrial[62064:978746] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 12:26:50.372 PhoneGapTrial[62064:978746] Resetting plugins due to page load.
+2016-03-26 12:26:51.137 PhoneGapTrial[62064:978746] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/DD4900B8-1DE1-4E3D-B077-CDAA629D35E1/PhoneGapTrial.app/www/index.html
+2016-03-26 12:43:37.669 PhoneGapTrial[62064:978746] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c178f90
+2016-03-26 12:43:37.702 PhoneGapTrial[62064:978746] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c178f90
+2016-03-26 12:43:39.014 PhoneGapTrial[62064:978746] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c178f90
+2016-03-26 12:43:39.015 PhoneGapTrial[62064:978746] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c178f90
+2016-03-26 12:43:40.428 PhoneGapTrial[62064:978746] Resetting plugins due to page load.
+2016-03-26 12:43:40.578 PhoneGapTrial[62064:978746] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/DD4900B8-1DE1-4E3D-B077-CDAA629D35E1/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 12:43:40.956 PhoneGapTrial[62064:978746] THREAD WARNING: ['InAppBrowser'] took '299.619873' ms. Plugin should use a background thread.
+2016-03-26 13:06:09.366 PhoneGapTrial[64991:1008626] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/234797D0-C1EA-4744-BA24-E04662E094DE/Library/Cookies/Cookies.binarycookies
+2016-03-26 13:06:09.803 PhoneGapTrial[64991:1008626] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 13:06:09.803 PhoneGapTrial[64991:1008626] Multi-tasking -> Device: YES, App: YES
+2016-03-26 13:06:09.829 PhoneGapTrial[64991:1008626] Unlimited access to network resources
+2016-03-26 13:06:09.847 PhoneGapTrial[64991:1008626] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 13:06:10.758 PhoneGapTrial[64991:1008626] Resetting plugins due to page load.
+2016-03-26 13:06:11.292 PhoneGapTrial[64991:1008626] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/2FAA1F81-CC35-4A2B-AC03-76F44D3A7D4B/PhoneGapTrial.app/www/index.html
+2016-03-26 13:06:14.755 PhoneGapTrial[64991:1008626] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a7da450
+2016-03-26 13:06:14.762 PhoneGapTrial[64991:1008626] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a7da450
+2016-03-26 13:06:15.884 PhoneGapTrial[64991:1008626] Resetting plugins due to page load.
+2016-03-26 13:06:15.967 PhoneGapTrial[64991:1008626] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/2FAA1F81-CC35-4A2B-AC03-76F44D3A7D4B/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 13:06:16.193 PhoneGapTrial[64991:1008626] THREAD WARNING: ['InAppBrowser'] took '181.572021' ms. Plugin should use a background thread.
+2016-03-26 13:39:22.923 PhoneGapTrial[67565:1031198] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/EAC8FCD6-3E74-4042-8AF5-51EDDFEAF1D4/Library/Cookies/Cookies.binarycookies
+2016-03-26 13:39:23.308 PhoneGapTrial[67565:1031198] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 13:39:23.308 PhoneGapTrial[67565:1031198] Multi-tasking -> Device: YES, App: YES
+2016-03-26 13:39:23.328 PhoneGapTrial[67565:1031198] Unlimited access to network resources
+2016-03-26 13:39:23.352 PhoneGapTrial[67565:1031198] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 13:39:24.111 PhoneGapTrial[67565:1031198] Resetting plugins due to page load.
+2016-03-26 13:39:24.636 PhoneGapTrial[67565:1031198] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F106A247-F3B6-4B0E-B15D-632AEE026A73/PhoneGapTrial.app/www/index.html
+2016-03-26 13:39:28.231 PhoneGapTrial[67565:1031198] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x788393d0
+2016-03-26 13:39:28.239 PhoneGapTrial[67565:1031198] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x788393d0
+2016-03-26 13:39:29.280 PhoneGapTrial[67565:1031198] Resetting plugins due to page load.
+2016-03-26 13:39:29.358 PhoneGapTrial[67565:1031198] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F106A247-F3B6-4B0E-B15D-632AEE026A73/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 13:39:29.576 PhoneGapTrial[67565:1031198] THREAD WARNING: ['InAppBrowser'] took '167.883057' ms. Plugin should use a background thread.
+2016-03-26 13:39:47.422 PhoneGapTrial[67565:1031198] Resetting plugins due to page load.
+2016-03-26 13:39:47.430 PhoneGapTrial[67565:1031198] IAB.close() called but it was already closed.
+2016-03-26 13:39:47.474 PhoneGapTrial[67565:1031198] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F106A247-F3B6-4B0E-B15D-632AEE026A73/PhoneGapTrial.app/www/search.html
+2016-03-26 13:39:49.608 PhoneGapTrial[67565:1031198] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x788393d0
+2016-03-26 13:39:49.608 PhoneGapTrial[67565:1031198] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x788393d0
+2016-03-26 13:39:51.177 PhoneGapTrial[67565:1031198] Resetting plugins due to page load.
+2016-03-26 13:39:51.178 PhoneGapTrial[67565:1031198] IAB.close() called but it was already closed.
+2016-03-26 13:39:51.234 PhoneGapTrial[67565:1031198] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F106A247-F3B6-4B0E-B15D-632AEE026A73/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 13:39:51.388 PhoneGapTrial[67565:1031198] THREAD WARNING: ['InAppBrowser'] took '74.283203' ms. Plugin should use a background thread.
+2016-03-26 13:39:56.831 PhoneGapTrial[67565:1031198] Resetting plugins due to page load.
+2016-03-26 13:39:56.831 PhoneGapTrial[67565:1031198] IAB.close() called but it was already closed.
+2016-03-26 13:39:56.874 PhoneGapTrial[67565:1031198] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F106A247-F3B6-4B0E-B15D-632AEE026A73/PhoneGapTrial.app/www/search.html
+2016-03-26 13:40:07.314 PhoneGapTrial[67565:1031198] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x788393d0
+2016-03-26 13:40:07.322 PhoneGapTrial[67565:1031198] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x788393d0
+2016-03-26 14:14:52.160 PhoneGapTrial[67565:1046635] Communications error: <OS_xpc_error: <error: 0x2dcd5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2dcd83c> { length = 22, contents = "Connection interrupted" }
+}>
+2016-03-26 14:45:44.760 PhoneGapTrial[67565:1031198] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x788393d0
+2016-03-26 14:45:44.783 PhoneGapTrial[67565:1031198] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x788393d0
+2016-03-26 14:46:09.999 PhoneGapTrial[72097:1067077] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/201BC5DE-7E5C-40BB-BBA9-40E0A1CA54A4/Library/Cookies/Cookies.binarycookies
+2016-03-26 14:46:10.434 PhoneGapTrial[72097:1067077] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 14:46:10.435 PhoneGapTrial[72097:1067077] Multi-tasking -> Device: YES, App: YES
+2016-03-26 14:46:10.458 PhoneGapTrial[72097:1067077] Unlimited access to network resources
+2016-03-26 14:46:10.474 PhoneGapTrial[72097:1067077] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 14:46:11.280 PhoneGapTrial[72097:1067077] Resetting plugins due to page load.
+2016-03-26 14:46:11.816 PhoneGapTrial[72097:1067077] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/147CB849-C738-429E-9603-1C7AC64E29DA/PhoneGapTrial.app/www/index.html
+2016-03-26 15:21:44.947 PhoneGapTrial[74781:1091923] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/640E759C-CCCD-4712-92CA-BC11D99331D2/Library/Cookies/Cookies.binarycookies
+2016-03-26 15:21:45.460 PhoneGapTrial[74781:1091923] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 15:21:45.460 PhoneGapTrial[74781:1091923] Multi-tasking -> Device: YES, App: YES
+2016-03-26 15:21:45.490 PhoneGapTrial[74781:1091923] Unlimited access to network resources
+2016-03-26 15:21:45.506 PhoneGapTrial[74781:1091923] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 15:21:46.492 PhoneGapTrial[74781:1091923] Resetting plugins due to page load.
+2016-03-26 15:21:47.102 PhoneGapTrial[74781:1091923] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/72D73DAC-48EB-4C8C-A160-F60331DC8DC8/PhoneGapTrial.app/www/index.html
+2016-03-26 15:21:56.153 PhoneGapTrial[74781:1091923] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bfa1020
+2016-03-26 15:21:56.165 PhoneGapTrial[74781:1091923] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bfa1020
+2016-03-26 15:22:59.130 PhoneGapTrial[74781:1091923] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bfa1020
+2016-03-26 15:22:59.131 PhoneGapTrial[74781:1091923] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bfa1020
+2016-03-26 15:23:22.246 PhoneGapTrial[75171:1094251] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/EFECE830-C01B-4C4F-9B41-2304BC02C02B/Library/Cookies/Cookies.binarycookies
+2016-03-26 15:23:22.392 PhoneGapTrial[75171:1094251] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 15:23:22.393 PhoneGapTrial[75171:1094251] Multi-tasking -> Device: YES, App: YES
+2016-03-26 15:23:22.396 PhoneGapTrial[75171:1094251] Unlimited access to network resources
+2016-03-26 15:23:22.399 PhoneGapTrial[75171:1094251] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 15:23:22.664 PhoneGapTrial[75171:1094251] Resetting plugins due to page load.
+2016-03-26 15:23:22.961 PhoneGapTrial[75171:1094251] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/4132B224-418E-4465-9F63-28F71DADAC15/PhoneGapTrial.app/www/index.html
+2016-03-26 15:23:29.416 PhoneGapTrial[75171:1094251] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c091d40
+2016-03-26 15:23:29.416 PhoneGapTrial[75171:1094251] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c091d40
+2016-03-26 15:24:24.658 PhoneGapTrial[75513:1096060] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/84223742-AC58-44E6-B39F-A6409540D981/Library/Cookies/Cookies.binarycookies
+2016-03-26 15:24:24.816 PhoneGapTrial[75513:1096060] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 15:24:24.817 PhoneGapTrial[75513:1096060] Multi-tasking -> Device: YES, App: YES
+2016-03-26 15:24:24.819 PhoneGapTrial[75513:1096060] Unlimited access to network resources
+2016-03-26 15:24:24.822 PhoneGapTrial[75513:1096060] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 15:24:25.082 PhoneGapTrial[75513:1096060] Resetting plugins due to page load.
+2016-03-26 15:24:25.408 PhoneGapTrial[75513:1096060] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/6D7DD6F0-F258-45CC-86A7-D8503B84DB8E/PhoneGapTrial.app/www/index.html
+2016-03-26 15:24:29.081 PhoneGapTrial[75513:1096060] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b6b0280
+2016-03-26 15:24:29.081 PhoneGapTrial[75513:1096060] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b6b0280
+2016-03-26 16:02:43.429 PhoneGapTrial[78388:1120114] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/326FC2BC-BA0A-409F-9ED2-467EE6E350EC/Library/Cookies/Cookies.binarycookies
+2016-03-26 16:02:43.872 PhoneGapTrial[78388:1120114] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:02:43.873 PhoneGapTrial[78388:1120114] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:02:43.899 PhoneGapTrial[78388:1120114] Unlimited access to network resources
+2016-03-26 16:02:43.922 PhoneGapTrial[78388:1120114] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:02:44.805 PhoneGapTrial[78388:1120114] Resetting plugins due to page load.
+2016-03-26 16:02:45.341 PhoneGapTrial[78388:1120114] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8934F97E-48A1-40B3-95BF-1BEDBCF1CC4B/PhoneGapTrial.app/www/index.html
+2016-03-26 16:02:51.488 PhoneGapTrial[78388:1120114] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f33860
+2016-03-26 16:02:51.499 PhoneGapTrial[78388:1120114] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f33860
+2016-03-26 16:02:52.737 PhoneGapTrial[78388:1120114] Resetting plugins due to page load.
+2016-03-26 16:02:52.806 PhoneGapTrial[78388:1120114] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8934F97E-48A1-40B3-95BF-1BEDBCF1CC4B/PhoneGapTrial.app/www/signup.html
+2016-03-26 16:03:11.519 PhoneGapTrial[78388:1120114] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f33860
+2016-03-26 16:03:11.519 PhoneGapTrial[78388:1120114] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f33860
+2016-03-26 16:03:17.471 PhoneGapTrial[78388:1120114] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f33860
+2016-03-26 16:03:17.471 PhoneGapTrial[78388:1120114] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f33860
+2016-03-26 16:03:19.157 PhoneGapTrial[78388:1120114] Resetting plugins due to page load.
+2016-03-26 16:03:19.233 PhoneGapTrial[78388:1120114] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8934F97E-48A1-40B3-95BF-1BEDBCF1CC4B/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:03:19.436 PhoneGapTrial[78388:1120114] THREAD WARNING: ['InAppBrowser'] took '142.502197' ms. Plugin should use a background thread.
+2016-03-26 16:04:20.515 PhoneGapTrial[78388:1120114] webView:didFailLoadWithError - -1001: The request timed out.
+2016-03-26 16:04:38.164 PhoneGapTrial[78388:1120114] Resetting plugins due to page load.
+2016-03-26 16:04:38.167 PhoneGapTrial[78388:1120114] IAB.close() called but it was already closed.
+2016-03-26 16:04:38.227 PhoneGapTrial[78388:1120114] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8934F97E-48A1-40B3-95BF-1BEDBCF1CC4B/PhoneGapTrial.app/www/search.html
+2016-03-26 16:04:39.680 PhoneGapTrial[78388:1120114] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f33860
+2016-03-26 16:04:39.680 PhoneGapTrial[78388:1120114] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f33860
+2016-03-26 16:04:40.637 PhoneGapTrial[78388:1120114] Resetting plugins due to page load.
+2016-03-26 16:04:40.637 PhoneGapTrial[78388:1120114] IAB.close() called but it was already closed.
+2016-03-26 16:04:40.711 PhoneGapTrial[78388:1120114] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8934F97E-48A1-40B3-95BF-1BEDBCF1CC4B/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:04:40.860 PhoneGapTrial[78388:1120114] THREAD WARNING: ['InAppBrowser'] took '75.943848' ms. Plugin should use a background thread.
+2016-03-26 16:05:41.502 PhoneGapTrial[78388:1120114] Resetting plugins due to page load.
+2016-03-26 16:05:41.502 PhoneGapTrial[78388:1120114] IAB.close() called but it was already closed.
+2016-03-26 16:05:41.559 PhoneGapTrial[78388:1120114] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8934F97E-48A1-40B3-95BF-1BEDBCF1CC4B/PhoneGapTrial.app/www/search.html
+2016-03-26 16:05:41.899 PhoneGapTrial[78388:1120114] webView:didFailLoadWithError - -1001: The request timed out.
+2016-03-26 16:05:43.473 PhoneGapTrial[78388:1122407] Terminating since there is no system app.
+2016-03-26 16:06:02.157 PhoneGapTrial[78884:1123348] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/14F97E19-CA74-46D1-AE04-3C560D3F1C98/Library/Cookies/Cookies.binarycookies
+2016-03-26 16:06:02.307 PhoneGapTrial[78884:1123348] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:06:02.308 PhoneGapTrial[78884:1123348] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:06:02.313 PhoneGapTrial[78884:1123348] Unlimited access to network resources
+2016-03-26 16:06:02.316 PhoneGapTrial[78884:1123348] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:06:02.591 PhoneGapTrial[78884:1123348] Resetting plugins due to page load.
+2016-03-26 16:06:02.933 PhoneGapTrial[78884:1123348] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/94EE764F-033A-4654-83C3-AEAEDD73C8DE/PhoneGapTrial.app/www/index.html
+2016-03-26 16:08:57.415 PhoneGapTrial[78884:1123348] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78fa7040
+2016-03-26 16:08:57.423 PhoneGapTrial[78884:1123348] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78fa7040
+2016-03-26 16:08:58.853 PhoneGapTrial[78884:1123348] Resetting plugins due to page load.
+2016-03-26 16:08:58.924 PhoneGapTrial[78884:1123348] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/94EE764F-033A-4654-83C3-AEAEDD73C8DE/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:08:59.104 PhoneGapTrial[78884:1123348] THREAD WARNING: ['InAppBrowser'] took '120.476074' ms. Plugin should use a background thread.
+2016-03-26 16:09:39.747 PhoneGapTrial[79396:1126024] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/A7DB7269-3C3A-46F1-9B05-0862269137F4/Library/Cookies/Cookies.binarycookies
+2016-03-26 16:09:39.908 PhoneGapTrial[79396:1126024] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:09:39.909 PhoneGapTrial[79396:1126024] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:09:39.911 PhoneGapTrial[79396:1126024] Unlimited access to network resources
+2016-03-26 16:09:39.915 PhoneGapTrial[79396:1126024] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:09:40.133 PhoneGapTrial[79396:1126024] Resetting plugins due to page load.
+2016-03-26 16:09:40.420 PhoneGapTrial[79396:1126024] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A34AFCD0-B7B5-4D6A-AEE1-02166A52FCA5/PhoneGapTrial.app/www/index.html
+2016-03-26 16:09:43.832 PhoneGapTrial[79396:1126024] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x789227b0
+2016-03-26 16:09:43.833 PhoneGapTrial[79396:1126024] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x789227b0
+2016-03-26 16:09:45.314 PhoneGapTrial[79396:1126024] Resetting plugins due to page load.
+2016-03-26 16:09:45.381 PhoneGapTrial[79396:1126024] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A34AFCD0-B7B5-4D6A-AEE1-02166A52FCA5/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:09:45.542 PhoneGapTrial[79396:1126024] THREAD WARNING: ['InAppBrowser'] took '117.984863' ms. Plugin should use a background thread.
+2016-03-26 16:10:50.999 PhoneGapTrial[79756:1127979] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/3EE894E7-F98F-444D-AA32-1C34EEB79EF1/Library/Cookies/Cookies.binarycookies
+2016-03-26 16:10:51.165 PhoneGapTrial[79756:1127979] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:10:51.165 PhoneGapTrial[79756:1127979] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:10:51.169 PhoneGapTrial[79756:1127979] Unlimited access to network resources
+2016-03-26 16:10:51.174 PhoneGapTrial[79756:1127979] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:10:51.457 PhoneGapTrial[79756:1127979] Resetting plugins due to page load.
+2016-03-26 16:10:51.753 PhoneGapTrial[79756:1127979] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/E5666BC0-DEDC-42C8-AA75-6E627BEEB25B/PhoneGapTrial.app/www/index.html
+2016-03-26 16:10:55.638 PhoneGapTrial[79756:1127979] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b6cbcb0
+2016-03-26 16:10:55.639 PhoneGapTrial[79756:1127979] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b6cbcb0
+2016-03-26 16:10:57.063 PhoneGapTrial[79756:1127979] Resetting plugins due to page load.
+2016-03-26 16:10:57.127 PhoneGapTrial[79756:1127979] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/E5666BC0-DEDC-42C8-AA75-6E627BEEB25B/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 16:10:57.357 PhoneGapTrial[79756:1127979] THREAD WARNING: ['InAppBrowser'] took '170.398193' ms. Plugin should use a background thread.
+2016-03-26 16:11:02.046 PhoneGapTrial[79756:1127979] Resetting plugins due to page load.
+2016-03-26 16:11:02.047 PhoneGapTrial[79756:1127979] IAB.close() called but it was already closed.
+2016-03-26 16:11:02.099 PhoneGapTrial[79756:1127979] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/E5666BC0-DEDC-42C8-AA75-6E627BEEB25B/PhoneGapTrial.app/www/search.html
+2016-03-26 16:11:03.240 PhoneGapTrial[79756:1127979] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b6cbcb0
+2016-03-26 16:11:03.240 PhoneGapTrial[79756:1127979] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b6cbcb0
+2016-03-26 16:11:04.849 PhoneGapTrial[79756:1127979] Resetting plugins due to page load.
+2016-03-26 16:11:04.849 PhoneGapTrial[79756:1127979] IAB.close() called but it was already closed.
+2016-03-26 16:11:04.910 PhoneGapTrial[79756:1127979] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/E5666BC0-DEDC-42C8-AA75-6E627BEEB25B/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:11:05.042 PhoneGapTrial[79756:1127979] THREAD WARNING: ['InAppBrowser'] took '88.998047' ms. Plugin should use a background thread.
+2016-03-26 16:12:06.072 PhoneGapTrial[79756:1127979] webView:didFailLoadWithError - -1001: The request timed out.
+2016-03-26 16:12:13.522 PhoneGapTrial[79756:1127979] Resetting plugins due to page load.
+2016-03-26 16:12:13.523 PhoneGapTrial[79756:1127979] IAB.close() called but it was already closed.
+2016-03-26 16:12:13.571 PhoneGapTrial[79756:1127979] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/E5666BC0-DEDC-42C8-AA75-6E627BEEB25B/PhoneGapTrial.app/www/search.html
+2016-03-26 16:15:25.014 PhoneGapTrial[80406:1133822] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/EB7D62D8-2AF6-431D-B471-9D6145D2EAC1/Library/Cookies/Cookies.binarycookies
+2016-03-26 16:15:25.420 PhoneGapTrial[80406:1133822] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:15:25.421 PhoneGapTrial[80406:1133822] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:15:25.445 PhoneGapTrial[80406:1133822] Unlimited access to network resources
+2016-03-26 16:15:25.468 PhoneGapTrial[80406:1133822] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:15:26.201 PhoneGapTrial[80406:1133822] Resetting plugins due to page load.
+2016-03-26 16:15:26.487 PhoneGapTrial[80406:1133822] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/730F1A44-6BA0-4946-901A-72F0D9BD1D7C/PhoneGapTrial.app/www/index.html
+2016-03-26 16:15:31.500 PhoneGapTrial[80406:1133822] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b6ae9f0
+2016-03-26 16:15:31.509 PhoneGapTrial[80406:1133822] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b6ae9f0
+2016-03-26 16:15:33.152 PhoneGapTrial[80406:1133822] Resetting plugins due to page load.
+2016-03-26 16:15:33.217 PhoneGapTrial[80406:1133822] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/730F1A44-6BA0-4946-901A-72F0D9BD1D7C/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:15:33.391 PhoneGapTrial[80406:1133822] THREAD WARNING: ['InAppBrowser'] took '115.208008' ms. Plugin should use a background thread.
+2016-03-26 16:16:14.467 PhoneGapTrial[80406:1133822] Resetting plugins due to page load.
+2016-03-26 16:16:14.475 PhoneGapTrial[80406:1133822] IAB.close() called but it was already closed.
+2016-03-26 16:16:14.519 PhoneGapTrial[80406:1133822] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/730F1A44-6BA0-4946-901A-72F0D9BD1D7C/PhoneGapTrial.app/www/search.html
+2016-03-26 16:16:33.883 PhoneGapTrial[80757:1135588] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/F90AA4F0-A89B-422C-8960-66CE086E7380/Library/Cookies/Cookies.binarycookies
+2016-03-26 16:16:34.044 PhoneGapTrial[80757:1135588] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:16:34.044 PhoneGapTrial[80757:1135588] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:16:34.049 PhoneGapTrial[80757:1135588] Unlimited access to network resources
+2016-03-26 16:16:34.054 PhoneGapTrial[80757:1135588] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:16:34.306 PhoneGapTrial[80757:1135588] Resetting plugins due to page load.
+2016-03-26 16:16:34.660 PhoneGapTrial[80757:1135588] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/C563C85E-DC8C-4198-9CAC-07F0C911D133/PhoneGapTrial.app/www/index.html
+2016-03-26 16:16:42.554 PhoneGapTrial[80757:1135588] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x791d5830
+2016-03-26 16:16:42.555 PhoneGapTrial[80757:1135588] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x791d5830
+2016-03-26 16:16:44.542 PhoneGapTrial[80757:1135588] Resetting plugins due to page load.
+2016-03-26 16:16:44.614 PhoneGapTrial[80757:1135588] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/C563C85E-DC8C-4198-9CAC-07F0C911D133/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:16:44.777 PhoneGapTrial[80757:1135588] THREAD WARNING: ['InAppBrowser'] took '122.440186' ms. Plugin should use a background thread.
+2016-03-26 16:17:21.584 PhoneGapTrial[80757:1136587] Communications error: <OS_xpc_error: <error: 0x2dc85f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2dc883c> { length = 22, contents = "Connection interrupted" }
+}>
+2016-03-26 16:17:28.916 PhoneGapTrial[80757:1135588] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:17:35.960 PhoneGapTrial[80757:1135588] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:17:55.609 PhoneGapTrial[80757:1135588] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:18:03.876 PhoneGapTrial[80757:1135588] webView:didFailLoadWithError - 101: The URL can’t be shown
+2016-03-26 16:19:20.309 PhoneGapTrial[80757:1135588] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:19:23.944 PhoneGapTrial[80757:1135588] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:19:34.376 PhoneGapTrial[80757:1135588] Resetting plugins due to page load.
+2016-03-26 16:19:34.376 PhoneGapTrial[80757:1135588] IAB.close() called but it was already closed.
+2016-03-26 16:19:34.460 PhoneGapTrial[80757:1135588] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/C563C85E-DC8C-4198-9CAC-07F0C911D133/PhoneGapTrial.app/www/search.html
+2016-03-26 16:19:35.825 PhoneGapTrial[80757:1135588] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x791d5830
+2016-03-26 16:19:35.825 PhoneGapTrial[80757:1135588] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x791d5830
+2016-03-26 16:19:37.232 PhoneGapTrial[80757:1135588] Resetting plugins due to page load.
+2016-03-26 16:19:37.232 PhoneGapTrial[80757:1135588] IAB.close() called but it was already closed.
+2016-03-26 16:19:37.289 PhoneGapTrial[80757:1135588] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/C563C85E-DC8C-4198-9CAC-07F0C911D133/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:19:37.415 PhoneGapTrial[80757:1135588] THREAD WARNING: ['InAppBrowser'] took '83.677979' ms. Plugin should use a background thread.
+2016-03-26 16:20:01.248 PhoneGapTrial[80757:1135588] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:24:57.430 PhoneGapTrial[80757:1135588] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:25:31.455 PhoneGapTrial[81671:1143539] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:25:31.460 PhoneGapTrial[81671:1143539] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:25:31.492 PhoneGapTrial[81671:1143539] Unlimited access to network resources
+2016-03-26 16:25:31.507 PhoneGapTrial[81671:1143539] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:25:32.426 PhoneGapTrial[81671:1143539] Resetting plugins due to page load.
+2016-03-26 16:25:33.133 PhoneGapTrial[81671:1143539] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/897F9B31-EB86-494E-B173-47A0FA6F0A20/PhoneGapTrial.app/www/index.html
+2016-03-26 16:25:37.443 PhoneGapTrial[81671:1143539] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78ef1730
+2016-03-26 16:25:37.452 PhoneGapTrial[81671:1143539] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78ef1730
+2016-03-26 16:25:39.424 PhoneGapTrial[81671:1143539] Resetting plugins due to page load.
+2016-03-26 16:25:39.498 PhoneGapTrial[81671:1143539] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/897F9B31-EB86-494E-B173-47A0FA6F0A20/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:25:39.749 PhoneGapTrial[81671:1143539] THREAD WARNING: ['InAppBrowser'] took '181.461914' ms. Plugin should use a background thread.
+2016-03-26 16:25:50.227 PhoneGapTrial[81671:1143539] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:27:30.531 PhoneGapTrial[81671:1145159] Terminating since there is no system app.
+2016-03-26 16:27:30.533 PhoneGapTrial[81671:1145157] Communications error: <OS_xpc_error: <error: 0x2da65f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2da683c> { length = 22, contents = "Connection interrupted" }
+}>
+2016-03-26 16:27:46.024 PhoneGapTrial[82099:1146011] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:27:46.026 PhoneGapTrial[82099:1146011] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:27:46.028 PhoneGapTrial[82099:1146011] Unlimited access to network resources
+2016-03-26 16:27:46.031 PhoneGapTrial[82099:1146011] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:27:46.306 PhoneGapTrial[82099:1146011] Resetting plugins due to page load.
+2016-03-26 16:27:46.594 PhoneGapTrial[82099:1146011] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/34B1CE83-7CB4-4480-BE72-13B77CACE186/PhoneGapTrial.app/www/index.html
+2016-03-26 16:27:58.294 PhoneGapTrial[82099:1146011] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bf4f480
+2016-03-26 16:27:58.295 PhoneGapTrial[82099:1146011] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bf4f480
+2016-03-26 16:28:00.168 PhoneGapTrial[82099:1146011] Resetting plugins due to page load.
+2016-03-26 16:28:00.242 PhoneGapTrial[82099:1146011] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/34B1CE83-7CB4-4480-BE72-13B77CACE186/PhoneGapTrial.app/www/outlook.html
+2016-03-26 16:28:00.428 PhoneGapTrial[82099:1146011] THREAD WARNING: ['InAppBrowser'] took '125.678955' ms. Plugin should use a background thread.
+2016-03-26 16:28:23.403 PhoneGapTrial[82099:1146011] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:39:51.039 PhoneGapTrial[82099:1146011] Resetting plugins due to page load.
+2016-03-26 16:39:51.049 PhoneGapTrial[82099:1146011] IAB.close() called but it was already closed.
+2016-03-26 16:39:51.467 PhoneGapTrial[82099:1146011] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/34B1CE83-7CB4-4480-BE72-13B77CACE186/PhoneGapTrial.app/www/search.html
+2016-03-26 16:39:57.631 PhoneGapTrial[82099:1146011] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bf4f480
+2016-03-26 16:39:57.643 PhoneGapTrial[82099:1146011] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bf4f480
+2016-03-26 16:43:50.369 PhoneGapTrial[82099:1158834] Terminating since there is no system app.
+2016-03-26 16:45:18.870 PhoneGapTrial[83632:1160477] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:45:18.909 PhoneGapTrial[83632:1160477] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:45:18.942 PhoneGapTrial[83632:1160477] Unlimited access to network resources
+2016-03-26 16:45:18.970 PhoneGapTrial[83632:1160477] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:45:19.920 PhoneGapTrial[83632:1160477] Resetting plugins due to page load.
+2016-03-26 16:45:20.503 PhoneGapTrial[83632:1160477] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A406C0F8-A21B-4FF1-A942-2566FAD3653F/PhoneGapTrial.app/www/index.html
+2016-03-26 16:46:24.005 PhoneGapTrial[83632:1160477] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a6a25d0
+2016-03-26 16:46:24.016 PhoneGapTrial[83632:1160477] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a6a25d0
+2016-03-26 16:46:25.485 PhoneGapTrial[83632:1160477] Resetting plugins due to page load.
+2016-03-26 16:46:25.576 PhoneGapTrial[83632:1160477] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A406C0F8-A21B-4FF1-A942-2566FAD3653F/PhoneGapTrial.app/www/ams.html
+2016-03-26 16:46:25.822 PhoneGapTrial[83632:1160477] THREAD WARNING: ['InAppBrowser'] took '200.153076' ms. Plugin should use a background thread.
+2016-03-26 16:48:39.730 PhoneGapTrial[83632:1160477] Resetting plugins due to page load.
+2016-03-26 16:48:39.731 PhoneGapTrial[83632:1160477] IAB.close() called but it was already closed.
+2016-03-26 16:48:39.813 PhoneGapTrial[83632:1160477] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A406C0F8-A21B-4FF1-A942-2566FAD3653F/PhoneGapTrial.app/www/search.html
+2016-03-26 16:48:41.150 PhoneGapTrial[83632:1160477] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a6a25d0
+2016-03-26 16:48:41.150 PhoneGapTrial[83632:1160477] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a6a25d0
+2016-03-26 16:48:42.398 PhoneGapTrial[83632:1160477] Resetting plugins due to page load.
+2016-03-26 16:48:42.398 PhoneGapTrial[83632:1160477] IAB.close() called but it was already closed.
+2016-03-26 16:48:42.474 PhoneGapTrial[83632:1160477] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/A406C0F8-A21B-4FF1-A942-2566FAD3653F/PhoneGapTrial.app/www/ams.html
+2016-03-26 16:48:42.631 PhoneGapTrial[83632:1160477] THREAD WARNING: ['InAppBrowser'] took '73.204834' ms. Plugin should use a background thread.
+2016-03-26 16:49:52.095 PhoneGapTrial[84282:1166685] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 16:49:52.096 PhoneGapTrial[84282:1166685] Multi-tasking -> Device: YES, App: YES
+2016-03-26 16:49:52.098 PhoneGapTrial[84282:1166685] Unlimited access to network resources
+2016-03-26 16:49:52.102 PhoneGapTrial[84282:1166685] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 16:49:52.367 PhoneGapTrial[84282:1166685] Resetting plugins due to page load.
+2016-03-26 16:49:52.731 PhoneGapTrial[84282:1166685] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F9E9E7AC-EC88-44D1-B13B-B9831C300A6B/PhoneGapTrial.app/www/index.html
+2016-03-26 16:49:56.359 PhoneGapTrial[84282:1166685] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x787e3e70
+2016-03-26 16:49:56.360 PhoneGapTrial[84282:1166685] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x787e3e70
+2016-03-26 16:49:58.156 PhoneGapTrial[84282:1166685] Resetting plugins due to page load.
+2016-03-26 16:49:58.213 PhoneGapTrial[84282:1166685] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F9E9E7AC-EC88-44D1-B13B-B9831C300A6B/PhoneGapTrial.app/www/ams.html
+2016-03-26 16:49:58.397 PhoneGapTrial[84282:1166685] THREAD WARNING: ['InAppBrowser'] took '126.528076' ms. Plugin should use a background thread.
+2016-03-26 16:50:23.674 PhoneGapTrial[84282:1166685] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:50:41.303 PhoneGapTrial[84282:1166685] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 16:51:01.079 PhoneGapTrial[84282:1166685] Resetting plugins due to page load.
+2016-03-26 16:51:01.080 PhoneGapTrial[84282:1166685] IAB.close() called but it was already closed.
+2016-03-26 16:51:01.133 PhoneGapTrial[84282:1166685] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F9E9E7AC-EC88-44D1-B13B-B9831C300A6B/PhoneGapTrial.app/www/search.html
+2016-03-26 16:51:02.615 PhoneGapTrial[84282:1166685] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x787e3e70
+2016-03-26 16:51:02.616 PhoneGapTrial[84282:1166685] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x787e3e70
+2016-03-26 16:51:04.188 PhoneGapTrial[84282:1166685] Resetting plugins due to page load.
+2016-03-26 16:51:04.188 PhoneGapTrial[84282:1166685] IAB.close() called but it was already closed.
+2016-03-26 16:51:04.239 PhoneGapTrial[84282:1166685] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F9E9E7AC-EC88-44D1-B13B-B9831C300A6B/PhoneGapTrial.app/www/ams.html
+2016-03-26 16:51:04.366 PhoneGapTrial[84282:1166685] THREAD WARNING: ['InAppBrowser'] took '77.026855' ms. Plugin should use a background thread.
+2016-03-26 16:51:08.055 PhoneGapTrial[84282:1166685] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2016-03-26 17:41:03.384 PhoneGapTrial[84282:1188034] Communications error: <OS_xpc_error: <error: 0x2dad5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2dad83c> { length = 22, contents = "Connection interrupted" }
+}>
+2016-03-26 18:10:57.022 PhoneGapTrial[84282:1203495] Terminating since there is no system app.
+2016-03-26 18:11:19.082 PhoneGapTrial[89640:1204319] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 18:11:19.085 PhoneGapTrial[89640:1204319] Multi-tasking -> Device: YES, App: YES
+2016-03-26 18:11:19.112 PhoneGapTrial[89640:1204319] Unlimited access to network resources
+2016-03-26 18:11:19.127 PhoneGapTrial[89640:1204319] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 18:11:20.025 PhoneGapTrial[89640:1204319] Resetting plugins due to page load.
+2016-03-26 18:11:20.593 PhoneGapTrial[89640:1204319] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/2E02C7BB-4CDE-4241-A095-479EF8C2B091/PhoneGapTrial.app/www/index.html
+2016-03-26 18:11:28.960 PhoneGapTrial[89640:1204319] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a62c5a0
+2016-03-26 18:11:28.968 PhoneGapTrial[89640:1204319] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a62c5a0
+2016-03-26 18:11:31.070 PhoneGapTrial[89640:1204319] Resetting plugins due to page load.
+2016-03-26 18:11:31.150 PhoneGapTrial[89640:1204319] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/2E02C7BB-4CDE-4241-A095-479EF8C2B091/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 18:11:31.375 PhoneGapTrial[89640:1204319] THREAD WARNING: ['InAppBrowser'] took '176.124756' ms. Plugin should use a background thread.
+2016-03-26 18:14:36.512 PhoneGapTrial[90209:1208330] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 18:14:36.514 PhoneGapTrial[90209:1208330] Multi-tasking -> Device: YES, App: YES
+2016-03-26 18:14:36.517 PhoneGapTrial[90209:1208330] Unlimited access to network resources
+2016-03-26 18:14:36.520 PhoneGapTrial[90209:1208330] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 18:14:36.794 PhoneGapTrial[90209:1208330] Resetting plugins due to page load.
+2016-03-26 18:14:37.103 PhoneGapTrial[90209:1208330] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F9DCC8D9-4F24-4FCA-91B0-CB559C934261/PhoneGapTrial.app/www/index.html
+2016-03-26 18:16:01.097 PhoneGapTrial[90209:1208330] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x797cacb0
+2016-03-26 18:16:01.105 PhoneGapTrial[90209:1208330] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x797cacb0
+2016-03-26 18:16:02.516 PhoneGapTrial[90209:1208330] Resetting plugins due to page load.
+2016-03-26 18:16:02.584 PhoneGapTrial[90209:1208330] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/F9DCC8D9-4F24-4FCA-91B0-CB559C934261/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 18:16:02.767 PhoneGapTrial[90209:1208330] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2016-03-26 18:16:02.776 PhoneGapTrial[90209:1208330] THREAD WARNING: ['InAppBrowser'] took '132.935059' ms. Plugin should use a background thread.
+2016-03-26 18:21:01.929 PhoneGapTrial[90918:1213687] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-26 18:21:01.934 PhoneGapTrial[90918:1213687] Multi-tasking -> Device: YES, App: YES
+2016-03-26 18:21:01.939 PhoneGapTrial[90918:1213687] Unlimited access to network resources
+2016-03-26 18:21:01.942 PhoneGapTrial[90918:1213687] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-26 18:21:02.771 PhoneGapTrial[90918:1213687] Resetting plugins due to page load.
+2016-03-26 18:21:03.207 PhoneGapTrial[90918:1213687] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3E63C7B6-0F2F-4691-892B-99E2BAAFC198/PhoneGapTrial.app/www/index.html
+2016-03-26 18:21:07.237 PhoneGapTrial[90918:1213687] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:21:07.239 PhoneGapTrial[90918:1213687] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:21:09.233 PhoneGapTrial[90918:1213687] Resetting plugins due to page load.
+2016-03-26 18:21:09.295 PhoneGapTrial[90918:1213687] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3E63C7B6-0F2F-4691-892B-99E2BAAFC198/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 18:21:09.447 PhoneGapTrial[90918:1213687] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2016-03-26 18:21:09.457 PhoneGapTrial[90918:1213687] THREAD WARNING: ['InAppBrowser'] took '123.928955' ms. Plugin should use a background thread.
+2016-03-26 18:21:13.209 PhoneGapTrial[90918:1213687] Resetting plugins due to page load.
+2016-03-26 18:21:13.209 PhoneGapTrial[90918:1213687] IAB.close() called but it was already closed.
+2016-03-26 18:21:13.258 PhoneGapTrial[90918:1213687] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3E63C7B6-0F2F-4691-892B-99E2BAAFC198/PhoneGapTrial.app/www/search.html
+2016-03-26 18:21:15.222 PhoneGapTrial[90918:1213687] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:21:15.222 PhoneGapTrial[90918:1213687] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:21:18.777 PhoneGapTrial[90918:1213687] Resetting plugins due to page load.
+2016-03-26 18:21:18.777 PhoneGapTrial[90918:1213687] IAB.close() called but it was already closed.
+2016-03-26 18:21:18.834 PhoneGapTrial[90918:1213687] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3E63C7B6-0F2F-4691-892B-99E2BAAFC198/PhoneGapTrial.app/www/search.html
+2016-03-26 18:21:20.818 PhoneGapTrial[90918:1213687] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:21:20.818 PhoneGapTrial[90918:1213687] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:21:22.233 PhoneGapTrial[90918:1213687] Resetting plugins due to page load.
+2016-03-26 18:21:22.233 PhoneGapTrial[90918:1213687] IAB.close() called but it was already closed.
+2016-03-26 18:21:22.298 PhoneGapTrial[90918:1213687] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3E63C7B6-0F2F-4691-892B-99E2BAAFC198/PhoneGapTrial.app/www/myCampusDays.html
+2016-03-26 18:21:22.443 PhoneGapTrial[90918:1213687] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2016-03-26 18:21:22.448 PhoneGapTrial[90918:1213687] THREAD WARNING: ['InAppBrowser'] took '86.796143' ms. Plugin should use a background thread.
+2016-03-26 18:21:26.353 PhoneGapTrial[90918:1213687] Resetting plugins due to page load.
+2016-03-26 18:21:26.354 PhoneGapTrial[90918:1213687] IAB.close() called but it was already closed.
+2016-03-26 18:21:26.400 PhoneGapTrial[90918:1213687] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3E63C7B6-0F2F-4691-892B-99E2BAAFC198/PhoneGapTrial.app/www/search.html
+2016-03-26 18:21:27.864 PhoneGapTrial[90918:1213687] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:21:27.864 PhoneGapTrial[90918:1213687] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:21:30.026 PhoneGapTrial[90918:1213687] Resetting plugins due to page load.
+2016-03-26 18:21:30.026 PhoneGapTrial[90918:1213687] IAB.close() called but it was already closed.
+2016-03-26 18:21:30.089 PhoneGapTrial[90918:1213687] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3E63C7B6-0F2F-4691-892B-99E2BAAFC198/PhoneGapTrial.app/www/outlook.html
+2016-03-26 18:21:30.218 PhoneGapTrial[90918:1213687] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2016-03-26 18:21:30.223 PhoneGapTrial[90918:1213687] THREAD WARNING: ['InAppBrowser'] took '91.110840' ms. Plugin should use a background thread.
+2016-03-26 18:21:41.874 PhoneGapTrial[90918:1213687] Resetting plugins due to page load.
+2016-03-26 18:21:41.874 PhoneGapTrial[90918:1213687] IAB.close() called but it was already closed.
+2016-03-26 18:21:41.928 PhoneGapTrial[90918:1213687] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3E63C7B6-0F2F-4691-892B-99E2BAAFC198/PhoneGapTrial.app/www/search.html
+2016-03-26 18:22:28.796 PhoneGapTrial[90918:1213687] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:22:28.797 PhoneGapTrial[90918:1213687] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x796ad2f0
+2016-03-26 18:22:30.484 PhoneGapTrial[90918:1213687] Resetting plugins due to page load.
+2016-03-26 18:22:30.484 PhoneGapTrial[90918:1213687] IAB.close() called but it was already closed.
+2016-03-26 18:22:30.532 PhoneGapTrial[90918:1213687] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3E63C7B6-0F2F-4691-892B-99E2BAAFC198/PhoneGapTrial.app/www/index.html
+2016-03-27 03:24:16.255 PhoneGapTrial[25887:1491167] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 03:24:16.257 PhoneGapTrial[25887:1491167] Multi-tasking -> Device: YES, App: YES
+2016-03-27 03:24:16.295 PhoneGapTrial[25887:1491167] Unlimited access to network resources
+2016-03-27 03:24:16.306 PhoneGapTrial[25887:1491167] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 03:24:17.350 PhoneGapTrial[25887:1491167] Resetting plugins due to page load.
+2016-03-27 03:24:18.079 PhoneGapTrial[25887:1491167] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/2E99F1B5-ED8A-4C19-AD50-97C37FFCA786/PhoneGapTrial.app/www/index.html
+2016-03-27 03:24:48.468 PhoneGapTrial[26235:1492837] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 03:24:48.470 PhoneGapTrial[26235:1492837] Multi-tasking -> Device: YES, App: YES
+2016-03-27 03:24:48.472 PhoneGapTrial[26235:1492837] Unlimited access to network resources
+2016-03-27 03:24:48.475 PhoneGapTrial[26235:1492837] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 03:24:48.727 PhoneGapTrial[26235:1492837] Resetting plugins due to page load.
+2016-03-27 03:24:49.015 PhoneGapTrial[26235:1492837] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/E5D88937-7CC7-453E-AA18-C31A609D57A7/PhoneGapTrial.app/www/index.html
+2016-03-27 03:24:52.346 PhoneGapTrial[26235:1492837] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b7bac80
+2016-03-27 03:24:52.358 PhoneGapTrial[26235:1492837] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b7bac80
+2016-03-27 03:24:54.022 PhoneGapTrial[26235:1492837] Resetting plugins due to page load.
+2016-03-27 03:24:54.225 PhoneGapTrial[26235:1492837] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/E5D88937-7CC7-453E-AA18-C31A609D57A7/PhoneGapTrial.app/www/todo-list.html
+2016-03-27 03:26:46.145 PhoneGapTrial[26694:1496134] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 03:26:46.147 PhoneGapTrial[26694:1496134] Multi-tasking -> Device: YES, App: YES
+2016-03-27 03:26:46.149 PhoneGapTrial[26694:1496134] Unlimited access to network resources
+2016-03-27 03:26:46.153 PhoneGapTrial[26694:1496134] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 03:26:46.439 PhoneGapTrial[26694:1496134] Resetting plugins due to page load.
+2016-03-27 03:26:46.734 PhoneGapTrial[26694:1496134] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3DEE219F-5A58-49E5-B556-C712FD15ABC5/PhoneGapTrial.app/www/index.html
+2016-03-27 03:26:50.544 PhoneGapTrial[26694:1496134] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a0eb1c0
+2016-03-27 03:26:50.544 PhoneGapTrial[26694:1496134] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a0eb1c0
+2016-03-27 03:26:52.499 PhoneGapTrial[26694:1496134] Resetting plugins due to page load.
+2016-03-27 03:26:52.708 PhoneGapTrial[26694:1496134] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3DEE219F-5A58-49E5-B556-C712FD15ABC5/PhoneGapTrial.app/www/todo-list.html
+2016-03-27 12:36:17.609 PhoneGapTrial[7711:55485] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 12:36:17.611 PhoneGapTrial[7711:55485] Multi-tasking -> Device: YES, App: YES
+2016-03-27 12:36:17.630 PhoneGapTrial[7711:55485] Unlimited access to network resources
+2016-03-27 12:36:17.647 PhoneGapTrial[7711:55485] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 12:36:18.615 PhoneGapTrial[7711:55485] Resetting plugins due to page load.
+2016-03-27 12:36:19.212 PhoneGapTrial[7711:55485] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/EB69ACB9-995F-45D2-A748-60C9EE9F14DC/PhoneGapTrial.app/www/index.html
+2016-03-27 12:37:00.537 PhoneGapTrial[7711:55485] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79eea570
+2016-03-27 12:37:00.547 PhoneGapTrial[7711:55485] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79eea570
+2016-03-27 12:37:02.280 PhoneGapTrial[7711:55485] Resetting plugins due to page load.
+2016-03-27 12:37:02.462 PhoneGapTrial[7711:55485] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/EB69ACB9-995F-45D2-A748-60C9EE9F14DC/PhoneGapTrial.app/www/todo-list.html
+2016-03-27 12:37:10.308 PhoneGapTrial[7711:55485] Resetting plugins due to page load.
+2016-03-27 12:37:10.381 PhoneGapTrial[7711:55485] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/EB69ACB9-995F-45D2-A748-60C9EE9F14DC/PhoneGapTrial.app/www/search.html
+2016-03-27 12:37:53.839 PhoneGapTrial[7711:55485] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79eea570
+2016-03-27 12:37:53.847 PhoneGapTrial[7711:55485] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79eea570
+2016-03-27 12:37:55.843 PhoneGapTrial[7711:55485] Resetting plugins due to page load.
+2016-03-27 12:37:55.911 PhoneGapTrial[7711:55485] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/EB69ACB9-995F-45D2-A748-60C9EE9F14DC/PhoneGapTrial.app/www/todo-list.html
+2016-03-27 14:34:25.117 PhoneGapTrial[16070:130516] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 14:34:25.123 PhoneGapTrial[16070:130516] Multi-tasking -> Device: YES, App: YES
+2016-03-27 14:34:25.156 PhoneGapTrial[16070:130516] Unlimited access to network resources
+2016-03-27 14:34:25.173 PhoneGapTrial[16070:130516] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 14:34:26.067 PhoneGapTrial[16070:130516] Resetting plugins due to page load.
+2016-03-27 14:34:26.679 PhoneGapTrial[16070:130516] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/647D742A-AFBE-4229-94D9-077120A849E8/PhoneGapTrial.app/www/index.html
+2016-03-27 14:34:32.281 PhoneGapTrial[16070:130516] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7972e610
+2016-03-27 14:34:32.290 PhoneGapTrial[16070:130516] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7972e610
+2016-03-27 14:34:33.992 PhoneGapTrial[16070:130516] Resetting plugins due to page load.
+2016-03-27 14:34:34.191 PhoneGapTrial[16070:130516] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/647D742A-AFBE-4229-94D9-077120A849E8/PhoneGapTrial.app/www/todo-list.html
+2016-03-27 14:44:00.275 PhoneGapTrial[17073:139367] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 14:44:00.280 PhoneGapTrial[17073:139367] Multi-tasking -> Device: YES, App: YES
+2016-03-27 14:44:00.302 PhoneGapTrial[17073:139367] Unlimited access to network resources
+2016-03-27 14:44:00.325 PhoneGapTrial[17073:139367] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 14:44:01.242 PhoneGapTrial[17073:139367] Resetting plugins due to page load.
+2016-03-27 14:44:01.803 PhoneGapTrial[17073:139367] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/D00C38CF-E677-48EF-AB76-8D5C67BB30D8/PhoneGapTrial.app/www/index.html
+2016-03-27 14:44:04.551 PhoneGapTrial[17073:139367] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78968970
+2016-03-27 14:44:04.558 PhoneGapTrial[17073:139367] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78968970
+2016-03-27 14:44:06.046 PhoneGapTrial[17073:139367] Resetting plugins due to page load.
+2016-03-27 14:44:06.268 PhoneGapTrial[17073:139367] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/D00C38CF-E677-48EF-AB76-8D5C67BB30D8/PhoneGapTrial.app/www/todo-list.html
+2016-03-27 18:34:49.695 PhoneGapTrial[32514:268264] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 18:34:49.696 PhoneGapTrial[32514:268264] Multi-tasking -> Device: YES, App: YES
+2016-03-27 18:34:49.726 PhoneGapTrial[32514:268264] Unlimited access to network resources
+2016-03-27 18:34:49.744 PhoneGapTrial[32514:268264] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 18:34:50.739 PhoneGapTrial[32514:268264] Resetting plugins due to page load.
+2016-03-27 18:34:51.305 PhoneGapTrial[32514:268264] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/AB1B2437-0B28-4678-9BD2-13E89C01DBF6/PhoneGapTrial.app/www/index.html
+2016-03-27 19:01:35.409 PhoneGapTrial[34662:289026] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 19:01:35.412 PhoneGapTrial[34662:289026] Multi-tasking -> Device: YES, App: YES
+2016-03-27 19:01:35.453 PhoneGapTrial[34662:289026] Unlimited access to network resources
+2016-03-27 19:01:35.470 PhoneGapTrial[34662:289026] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 19:01:36.722 PhoneGapTrial[34662:289026] Resetting plugins due to page load.
+2016-03-27 19:01:37.566 PhoneGapTrial[34662:289026] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/D8F8FCFF-2EED-4837-8886-FD2F8675F7A5/PhoneGapTrial.app/www/index.html
+2016-03-27 19:01:43.103 PhoneGapTrial[34662:289026] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c0f44b0
+2016-03-27 19:01:43.117 PhoneGapTrial[34662:289026] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c0f44b0
+2016-03-27 19:01:44.813 PhoneGapTrial[34662:289026] Resetting plugins due to page load.
+2016-03-27 19:01:45.109 PhoneGapTrial[34662:289026] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/D8F8FCFF-2EED-4837-8886-FD2F8675F7A5/PhoneGapTrial.app/www/todo-list.html
+2016-03-27 19:01:59.517 PhoneGapTrial[34662:289619] Communications error: <OS_xpc_error: <error: 0x2d075f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d0783c> { length = 22, contents = "Connection interrupted" }
+}>
+2016-03-27 19:12:19.643 PhoneGapTrial[34662:289026] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c0f44b0
+2016-03-27 19:12:19.652 PhoneGapTrial[34662:289026] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c0f44b0
+2016-03-27 19:12:24.119 PhoneGapTrial[34662:289026] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c0f44b0
+2016-03-27 19:12:24.119 PhoneGapTrial[34662:289026] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c0f44b0
+2016-03-27 19:12:58.411 PhoneGapTrial[35765:297524] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 19:12:58.414 PhoneGapTrial[35765:297524] Multi-tasking -> Device: YES, App: YES
+2016-03-27 19:12:58.459 PhoneGapTrial[35765:297524] Unlimited access to network resources
+2016-03-27 19:12:58.485 PhoneGapTrial[35765:297524] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 19:12:59.140 PhoneGapTrial[35765:297524] Resetting plugins due to page load.
+2016-03-27 19:12:59.658 PhoneGapTrial[35765:297524] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/FA310998-F974-477E-8BE0-CF540AAD1783/PhoneGapTrial.app/www/index.html
+2016-03-27 19:13:03.145 PhoneGapTrial[35765:297524] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:03.146 PhoneGapTrial[35765:297524] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:04.822 PhoneGapTrial[35765:297524] Resetting plugins due to page load.
+2016-03-27 19:13:05.043 PhoneGapTrial[35765:297524] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/FA310998-F974-477E-8BE0-CF540AAD1783/PhoneGapTrial.app/www/todo-list.html
+2016-03-27 19:13:16.334 PhoneGapTrial[35765:297524] THREAD WARNING: ['InAppBrowser'] took '124.392822' ms. Plugin should use a background thread.
+2016-03-27 19:13:27.129 PhoneGapTrial[35765:297524] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:27.137 PhoneGapTrial[35765:297524] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:34.707 PhoneGapTrial[35765:297524] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:34.708 PhoneGapTrial[35765:297524] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:40.754 PhoneGapTrial[35765:297524] Resetting plugins due to page load.
+2016-03-27 19:13:40.754 PhoneGapTrial[35765:297524] IAB.close() called but it was already closed.
+2016-03-27 19:13:40.962 PhoneGapTrial[35765:297524] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/FA310998-F974-477E-8BE0-CF540AAD1783/PhoneGapTrial.app/www/chat.html
+2016-03-27 19:13:43.633 PhoneGapTrial[35765:297524] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:43.634 PhoneGapTrial[35765:297524] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:48.364 PhoneGapTrial[35765:297524] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:48.364 PhoneGapTrial[35765:297524] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:53.839 PhoneGapTrial[35765:297524] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:53.839 PhoneGapTrial[35765:297524] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:57.387 PhoneGapTrial[35765:297524] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:13:57.387 PhoneGapTrial[35765:297524] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:14:27.963 PhoneGapTrial[35765:297524] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:14:27.970 PhoneGapTrial[35765:297524] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78e366e0
+2016-03-27 19:19:29.731 PhoneGapTrial[35765:301534] Terminating since there is no system app.
+2016-03-27 19:19:29.734 PhoneGapTrial[35765:301533] Communications error: <OS_xpc_error: <error: 0x2d8b5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d8b83c> { length = 22, contents = "Connection interrupted" }
+}>
+2016-03-27 19:19:55.603 PhoneGapTrial[36500:302550] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-27 19:19:55.605 PhoneGapTrial[36500:302550] Multi-tasking -> Device: YES, App: YES
+2016-03-27 19:19:55.641 PhoneGapTrial[36500:302550] Unlimited access to network resources
+2016-03-27 19:19:55.660 PhoneGapTrial[36500:302550] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-27 19:19:56.763 PhoneGapTrial[36500:302550] Resetting plugins due to page load.
+2016-03-27 19:19:57.651 PhoneGapTrial[36500:302550] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/1A77598B-3C01-480F-8E5F-0895C461F398/PhoneGapTrial.app/www/index.html
+2016-03-28 01:47:16.950 PhoneGapTrial[62135:513886] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-28 01:47:16.952 PhoneGapTrial[62135:513886] Multi-tasking -> Device: YES, App: YES
+2016-03-28 01:47:16.981 PhoneGapTrial[62135:513886] Unlimited access to network resources
+2016-03-28 01:47:16.997 PhoneGapTrial[62135:513886] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-28 01:47:17.888 PhoneGapTrial[62135:513886] Resetting plugins due to page load.
+2016-03-28 01:47:18.466 PhoneGapTrial[62135:513886] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/955E28D8-E873-4918-8065-C691DA542B4E/PhoneGapTrial.app/www/index.html
+2016-03-28 01:47:25.172 PhoneGapTrial[62135:513886] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a1bd6e0
+2016-03-28 01:47:25.178 PhoneGapTrial[62135:513886] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a1bd6e0
+2016-03-28 01:47:29.957 PhoneGapTrial[62135:513886] Resetting plugins due to page load.
+2016-03-28 01:47:30.091 PhoneGapTrial[62135:513886] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/955E28D8-E873-4918-8065-C691DA542B4E/PhoneGapTrial.app/www/getJSON.html
+2016-03-28 01:58:26.516 PhoneGapTrial[63132:523118] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-28 01:58:26.517 PhoneGapTrial[63132:523118] Multi-tasking -> Device: YES, App: YES
+2016-03-28 01:58:26.520 PhoneGapTrial[63132:523118] Unlimited access to network resources
+2016-03-28 01:58:26.524 PhoneGapTrial[63132:523118] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-28 01:58:26.801 PhoneGapTrial[63132:523118] Resetting plugins due to page load.
+2016-03-28 01:58:27.064 PhoneGapTrial[63132:523118] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/C913D77F-B949-46D0-8BC9-667483E6F3A4/PhoneGapTrial.app/www/index.html
+2016-03-28 01:58:30.538 PhoneGapTrial[63132:523118] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b70d400
+2016-03-28 01:58:30.539 PhoneGapTrial[63132:523118] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7b70d400
+2016-03-28 01:58:33.939 PhoneGapTrial[63132:523118] Resetting plugins due to page load.
+2016-03-28 01:58:34.046 PhoneGapTrial[63132:523118] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/C913D77F-B949-46D0-8BC9-667483E6F3A4/PhoneGapTrial.app/www/getJSON.html
+2016-03-28 02:00:07.023 PhoneGapTrial[63483:524502] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-28 02:00:07.025 PhoneGapTrial[63483:524502] Multi-tasking -> Device: YES, App: YES
+2016-03-28 02:00:07.029 PhoneGapTrial[63483:524502] Unlimited access to network resources
+2016-03-28 02:00:07.034 PhoneGapTrial[63483:524502] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-28 02:00:07.302 PhoneGapTrial[63483:524502] Resetting plugins due to page load.
+2016-03-28 02:00:07.623 PhoneGapTrial[63483:524502] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3980F8DA-865C-42B1-A912-E335D696C029/PhoneGapTrial.app/www/index.html
+2016-03-28 02:00:13.852 PhoneGapTrial[63483:524502] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c111a20
+2016-03-28 02:00:13.853 PhoneGapTrial[63483:524502] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7c111a20
+2016-03-28 02:00:16.503 PhoneGapTrial[63483:524502] Resetting plugins due to page load.
+2016-03-28 02:00:16.605 PhoneGapTrial[63483:524502] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3980F8DA-865C-42B1-A912-E335D696C029/PhoneGapTrial.app/www/getJSON.html
+2016-03-28 02:01:05.675 PhoneGapTrial[63786:525690] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-28 02:01:05.676 PhoneGapTrial[63786:525690] Multi-tasking -> Device: YES, App: YES
+2016-03-28 02:01:05.678 PhoneGapTrial[63786:525690] Unlimited access to network resources
+2016-03-28 02:01:05.682 PhoneGapTrial[63786:525690] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-28 02:01:05.848 PhoneGapTrial[63786:525690] Resetting plugins due to page load.
+2016-03-28 02:01:06.063 PhoneGapTrial[63786:525690] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/75A1FCDD-A29E-4E19-984C-D0FD0A80791F/PhoneGapTrial.app/www/index.html
+2016-03-28 02:09:11.794 PhoneGapTrial[63786:525690] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7ab5d650
+2016-03-28 02:09:11.795 PhoneGapTrial[63786:525690] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7ab5d650
+2016-03-28 02:09:13.987 PhoneGapTrial[63786:525690] Resetting plugins due to page load.
+2016-03-28 02:09:14.104 PhoneGapTrial[63786:525690] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/75A1FCDD-A29E-4E19-984C-D0FD0A80791F/PhoneGapTrial.app/www/getJSON.html
+2016-03-28 02:10:02.053 PhoneGapTrial[64661:532498] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-28 02:10:02.055 PhoneGapTrial[64661:532498] Multi-tasking -> Device: YES, App: YES
+2016-03-28 02:10:02.058 PhoneGapTrial[64661:532498] Unlimited access to network resources
+2016-03-28 02:10:02.062 PhoneGapTrial[64661:532498] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-28 02:10:02.323 PhoneGapTrial[64661:532498] Resetting plugins due to page load.
+2016-03-28 02:10:02.636 PhoneGapTrial[64661:532498] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/4159A590-C418-4813-8541-8FBABDFADB8D/PhoneGapTrial.app/www/index.html
+2016-03-28 02:10:40.239 PhoneGapTrial[64661:532498] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78ee83a0
+2016-03-28 02:10:40.240 PhoneGapTrial[64661:532498] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78ee83a0
+2016-03-28 02:10:44.274 PhoneGapTrial[64661:532498] Resetting plugins due to page load.
+2016-03-28 02:10:44.342 PhoneGapTrial[64661:532498] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/4159A590-C418-4813-8541-8FBABDFADB8D/PhoneGapTrial.app/www/getJSON.html
+2016-03-28 02:12:13.264 PhoneGapTrial[65048:534178] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-28 02:12:13.266 PhoneGapTrial[65048:534178] Multi-tasking -> Device: YES, App: YES
+2016-03-28 02:12:13.268 PhoneGapTrial[65048:534178] Unlimited access to network resources
+2016-03-28 02:12:13.272 PhoneGapTrial[65048:534178] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-28 02:12:13.495 PhoneGapTrial[65048:534178] Resetting plugins due to page load.
+2016-03-28 02:12:13.746 PhoneGapTrial[65048:534178] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/02911D9C-886F-4304-98ED-715C0DC47020/PhoneGapTrial.app/www/index.html
+2016-03-28 02:12:51.001 PhoneGapTrial[65048:534178] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79621340
+2016-03-28 02:12:51.002 PhoneGapTrial[65048:534178] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79621340
+2016-03-28 02:12:53.418 PhoneGapTrial[65048:534178] Resetting plugins due to page load.
+2016-03-28 02:12:53.550 PhoneGapTrial[65048:534178] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/02911D9C-886F-4304-98ED-715C0DC47020/PhoneGapTrial.app/www/getJSON.html
+2016-03-28 02:13:35.750 PhoneGapTrial[65374:535895] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-28 02:13:35.752 PhoneGapTrial[65374:535895] Multi-tasking -> Device: YES, App: YES
+2016-03-28 02:13:35.754 PhoneGapTrial[65374:535895] Unlimited access to network resources
+2016-03-28 02:13:35.758 PhoneGapTrial[65374:535895] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-28 02:13:35.965 PhoneGapTrial[65374:535895] Resetting plugins due to page load.
+2016-03-28 02:13:36.245 PhoneGapTrial[65374:535895] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/2A6DA5D4-A5DA-4382-AB0F-F5943BDB6763/PhoneGapTrial.app/www/index.html
+2016-03-28 02:13:40.037 PhoneGapTrial[65374:535895] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78ec5270
+2016-03-28 02:13:40.038 PhoneGapTrial[65374:535895] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x78ec5270
+2016-03-28 02:13:44.156 PhoneGapTrial[65374:535895] Resetting plugins due to page load.
+2016-03-28 02:13:44.226 PhoneGapTrial[65374:535895] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/2A6DA5D4-A5DA-4382-AB0F-F5943BDB6763/PhoneGapTrial.app/www/getJSON.html
+2016-03-28 02:14:02.811 PhoneGapTrial[65374:536276] Terminating since there is no system app.
+2016-03-28 23:55:12.368 PhoneGapTrial[1497:25003] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-28 23:55:12.370 PhoneGapTrial[1497:25003] Multi-tasking -> Device: YES, App: YES
+2016-03-28 23:55:12.388 PhoneGapTrial[1497:25003] Unlimited access to network resources
+2016-03-28 23:55:12.404 PhoneGapTrial[1497:25003] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-28 23:55:13.306 PhoneGapTrial[1497:25003] Resetting plugins due to page load.
+2016-03-28 23:55:14.826 PhoneGapTrial[1497:25003] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/3AF3CA37-BADC-4884-9B25-4B309A6ECDF6/PhoneGapTrial.app/www/index.html
+2016-03-28 23:56:50.507 PhoneGapTrial[2338:27607] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-28 23:56:50.509 PhoneGapTrial[2338:27607] Multi-tasking -> Device: YES, App: YES
+2016-03-28 23:56:50.511 PhoneGapTrial[2338:27607] Unlimited access to network resources
+2016-03-28 23:56:50.514 PhoneGapTrial[2338:27607] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-28 23:56:50.721 PhoneGapTrial[2338:27607] Resetting plugins due to page load.
+2016-03-28 23:56:50.944 PhoneGapTrial[2338:27607] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/D855595D-9EC5-4E72-99A9-274A5E909412/PhoneGapTrial.app/www/index.html
+2016-03-28 23:57:09.046 PhoneGapTrial[2338:27607] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7ba3c4a0
+2016-03-28 23:57:09.054 PhoneGapTrial[2338:27607] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7ba3c4a0
+2016-03-28 23:57:11.856 PhoneGapTrial[2338:27607] Resetting plugins due to page load.
+2016-03-28 23:57:11.954 PhoneGapTrial[2338:27607] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/D855595D-9EC5-4E72-99A9-274A5E909412/PhoneGapTrial.app/www/getJSON.html
+2016-03-29 00:13:17.712 PhoneGapTrial[3731:38626] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-29 00:13:17.713 PhoneGapTrial[3731:38626] Multi-tasking -> Device: YES, App: YES
+2016-03-29 00:13:17.715 PhoneGapTrial[3731:38626] Unlimited access to network resources
+2016-03-29 00:13:17.719 PhoneGapTrial[3731:38626] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-29 00:13:17.897 PhoneGapTrial[3731:38626] Resetting plugins due to page load.
+2016-03-29 00:13:18.131 PhoneGapTrial[3731:38626] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8C1598E8-0CB0-458F-96DD-9165C3B4B418/PhoneGapTrial.app/www/index.html
+2016-03-29 00:13:22.075 PhoneGapTrial[3731:38626] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x797477a0
+2016-03-29 00:13:22.075 PhoneGapTrial[3731:38626] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x797477a0
+2016-03-29 00:13:27.580 PhoneGapTrial[3731:38626] Resetting plugins due to page load.
+2016-03-29 00:13:27.682 PhoneGapTrial[3731:38626] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/8C1598E8-0CB0-458F-96DD-9165C3B4B418/PhoneGapTrial.app/www/getJSON.html
+2016-03-29 00:13:57.565 PhoneGapTrial[4012:39751] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/3567FA0B-E8B6-4909-9B57-F01FF27DAC54/Library/Cookies/Cookies.binarycookies
+2016-03-29 00:13:57.663 PhoneGapTrial[4012:39751] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-29 00:13:57.663 PhoneGapTrial[4012:39751] Multi-tasking -> Device: YES, App: YES
+2016-03-29 00:13:57.668 PhoneGapTrial[4012:39751] Unlimited access to network resources
+2016-03-29 00:13:57.671 PhoneGapTrial[4012:39751] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-29 00:13:58.192 PhoneGapTrial[4012:39751] Resetting plugins due to page load.
+2016-03-29 00:13:59.289 PhoneGapTrial[4012:39751] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/1F38DDC7-57ED-4583-8880-1D15E629A6B5/PhoneGapTrial.app/www/index.html
+2016-03-29 00:14:03.252 PhoneGapTrial[4012:39751] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x787d4b60
+2016-03-29 00:14:03.253 PhoneGapTrial[4012:39751] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x787d4b60
+2016-03-29 00:14:05.057 PhoneGapTrial[4012:39751] Resetting plugins due to page load.
+2016-03-29 00:14:05.233 PhoneGapTrial[4012:39751] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/1F38DDC7-57ED-4583-8880-1D15E629A6B5/PhoneGapTrial.app/www/events.html
+2016-03-29 00:14:07.354 PhoneGapTrial[4012:39751] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x787d4b60
+2016-03-29 00:14:07.354 PhoneGapTrial[4012:39751] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x787d4b60
+2016-03-29 00:14:11.398 PhoneGapTrial[4012:39751] Resetting plugins due to page load.
+2016-03-29 00:14:11.499 PhoneGapTrial[4012:39751] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/1F38DDC7-57ED-4583-8880-1D15E629A6B5/PhoneGapTrial.app/www/getJSON.html
+2016-03-29 00:26:20.553 PhoneGapTrial[5055:48033] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/A72B6882-7815-481A-AB2C-C3B8A16CECFB/Library/Cookies/Cookies.binarycookies
+2016-03-29 00:26:20.659 PhoneGapTrial[5055:48033] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-29 00:26:20.660 PhoneGapTrial[5055:48033] Multi-tasking -> Device: YES, App: YES
+2016-03-29 00:26:20.662 PhoneGapTrial[5055:48033] Unlimited access to network resources
+2016-03-29 00:26:20.666 PhoneGapTrial[5055:48033] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-29 00:26:20.959 PhoneGapTrial[5055:48033] Resetting plugins due to page load.
+2016-03-29 00:26:21.294 PhoneGapTrial[5055:48033] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/13D529AB-8367-435F-A8D4-A24BA048E507/PhoneGapTrial.app/www/index.html
+2016-03-29 00:27:01.003 PhoneGapTrial[5055:48033] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bf23100
+2016-03-29 00:27:01.004 PhoneGapTrial[5055:48033] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7bf23100
+2016-03-29 00:27:03.807 PhoneGapTrial[5055:48033] Resetting plugins due to page load.
+2016-03-29 00:27:03.922 PhoneGapTrial[5055:48033] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/13D529AB-8367-435F-A8D4-A24BA048E507/PhoneGapTrial.app/www/getJSON.html
+2016-03-29 00:31:24.016 PhoneGapTrial[5617:52242] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/A25220DA-6AF5-4307-A694-FBB04BF27B02/Library/Cookies/Cookies.binarycookies
+2016-03-29 00:31:24.113 PhoneGapTrial[5617:52242] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-29 00:31:24.113 PhoneGapTrial[5617:52242] Multi-tasking -> Device: YES, App: YES
+2016-03-29 00:31:24.115 PhoneGapTrial[5617:52242] Unlimited access to network resources
+2016-03-29 00:31:24.119 PhoneGapTrial[5617:52242] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-29 00:31:24.310 PhoneGapTrial[5617:52242] Resetting plugins due to page load.
+2016-03-29 00:31:24.547 PhoneGapTrial[5617:52242] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/79F0DADE-C504-44E3-ACF2-8B733DAD2CD9/PhoneGapTrial.app/www/index.html
+2016-03-29 00:31:33.400 PhoneGapTrial[5617:52242] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a874470
+2016-03-29 00:31:33.400 PhoneGapTrial[5617:52242] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a874470
+2016-03-29 00:31:36.880 PhoneGapTrial[5617:52242] Resetting plugins due to page load.
+2016-03-29 00:31:36.977 PhoneGapTrial[5617:52242] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/79F0DADE-C504-44E3-ACF2-8B733DAD2CD9/PhoneGapTrial.app/www/getJSON.html
+2016-03-29 00:36:18.149 PhoneGapTrial[6208:55599] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/C2B1D72F-CB83-49D3-92E7-E1929810A672/Library/Cookies/Cookies.binarycookies
+2016-03-29 00:36:18.236 PhoneGapTrial[6208:55599] Apache Cordova native platform version 3.8.0 is starting.
+2016-03-29 00:36:18.237 PhoneGapTrial[6208:55599] Multi-tasking -> Device: YES, App: YES
+2016-03-29 00:36:18.240 PhoneGapTrial[6208:55599] Unlimited access to network resources
+2016-03-29 00:36:18.245 PhoneGapTrial[6208:55599] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-03-29 00:36:18.341 PhoneGapTrial[6208:55599] [CDVTimer][file] 5.466998ms
+2016-03-29 00:36:18.342 PhoneGapTrial[6208:55599] [CDVTimer][TotalPluginStartup] 6.296992ms
+2016-03-29 00:36:18.435 PhoneGapTrial[6208:55599] Resetting plugins due to page load.
+2016-03-29 00:36:18.670 PhoneGapTrial[6208:55599] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/DF5E35DA-4BB5-49F7-9E36-4F8270CA02B5/PhoneGapTrial.app/www/index.html
+2016-03-29 00:36:21.774 PhoneGapTrial[6208:55599] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a7c5270
+2016-03-29 00:36:21.775 PhoneGapTrial[6208:55599] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7a7c5270
+2016-03-29 00:36:24.257 PhoneGapTrial[6208:55599] Resetting plugins due to page load.
+2016-03-29 00:36:24.341 PhoneGapTrial[6208:55599] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/DF5E35DA-4BB5-49F7-9E36-4F8270CA02B5/PhoneGapTrial.app/www/getJSON.html
+2016-03-29 00:36:28.516 PhoneGapTrial[6208:55599] THREAD WARNING: ['File'] took '2012.362061' ms. Plugin should use a background thread.
+2016-03-29 00:36:29.827 PhoneGapTrial[6208:55599] THREAD WARNING: ['File'] took '1302.588867' ms. Plugin should use a background thread.
+2016-03-29 00:36:31.299 PhoneGapTrial[6208:55599] THREAD WARNING: ['File'] took '1455.406738' ms. Plugin should use a background thread.
+2016-04-04 22:05:50.967 PhoneGapTrial[8059:59463] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/35E443CB-B260-477A-892D-7FBE2F1C97BE/Library/Cookies/Cookies.binarycookies
+2016-04-04 22:05:51.424 PhoneGapTrial[8059:59463] Apache Cordova native platform version 3.8.0 is starting.
+2016-04-04 22:05:51.425 PhoneGapTrial[8059:59463] Multi-tasking -> Device: YES, App: YES
+2016-04-04 22:05:51.443 PhoneGapTrial[8059:59463] Unlimited access to network resources
+2016-04-04 22:05:51.458 PhoneGapTrial[8059:59463] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-04-04 22:05:51.998 PhoneGapTrial[8059:59463] [CDVTimer][file] 19.477963ms
+2016-04-04 22:05:51.999 PhoneGapTrial[8059:59463] [CDVTimer][TotalPluginStartup] 20.352960ms
+2016-04-04 22:05:52.444 PhoneGapTrial[8059:59463] Resetting plugins due to page load.
+2016-04-04 22:05:53.131 PhoneGapTrial[8059:59463] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/7F9CC331-6F8B-4427-B187-3E01A879ED3C/PhoneGapTrial.app/www/index.html
+2016-04-04 22:11:41.719 PhoneGapTrial[8059:59463] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7af811f0
+2016-04-04 22:11:41.729 PhoneGapTrial[8059:59463] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7af811f0
+2016-04-04 22:11:51.620 PhoneGapTrial[8059:59463] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7af811f0
+2016-04-04 22:11:51.620 PhoneGapTrial[8059:59463] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x7af811f0
+2016-04-04 22:11:53.662 PhoneGapTrial[8059:59463] Resetting plugins due to page load.
+2016-04-04 22:11:53.771 PhoneGapTrial[8059:59463] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/7F9CC331-6F8B-4427-B187-3E01A879ED3C/PhoneGapTrial.app/www/getJSON.html
+2016-04-04 22:11:56.724 PhoneGapTrial[8059:59463] THREAD WARNING: ['File'] took '1080.902100' ms. Plugin should use a background thread.
+2016-04-04 22:11:57.979 PhoneGapTrial[8059:59463] THREAD WARNING: ['File'] took '1241.163086' ms. Plugin should use a background thread.
+2016-04-04 22:11:59.081 PhoneGapTrial[8059:59463] THREAD WARNING: ['File'] took '1089.132080' ms. Plugin should use a background thread.
+2016-04-04 22:53:07.417 PhoneGapTrial[11847:96146] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Data/Application/83A48F9D-AAE1-4A5C-864C-411DA1963EDB/Library/Cookies/Cookies.binarycookies
+2016-04-04 22:53:07.834 PhoneGapTrial[11847:96146] Apache Cordova native platform version 3.8.0 is starting.
+2016-04-04 22:53:07.834 PhoneGapTrial[11847:96146] Multi-tasking -> Device: YES, App: YES
+2016-04-04 22:53:07.863 PhoneGapTrial[11847:96146] Unlimited access to network resources
+2016-04-04 22:53:07.881 PhoneGapTrial[11847:96146] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-04-04 22:53:08.405 PhoneGapTrial[11847:96146] [CDVTimer][file] 11.090040ms
+2016-04-04 22:53:08.405 PhoneGapTrial[11847:96146] [CDVTimer][TotalPluginStartup] 11.321008ms
+2016-04-04 22:53:08.861 PhoneGapTrial[11847:96146] Resetting plugins due to page load.
+2016-04-04 22:53:09.408 PhoneGapTrial[11847:96146] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/55D3E351-4975-4F0B-A617-172BB24C0F55/PhoneGapTrial.app/www/index.html
+2016-04-04 22:53:12.539 PhoneGapTrial[11847:96146] -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f31d10
+2016-04-04 22:53:12.550 PhoneGapTrial[11847:96146] *** WebKit discarded an uncaught exception in the webView:willRemoveScrollingLayer:withContentsLayer:forNode: delegate: <NSInvalidArgumentException> -[WebActionDisablingCALayerDelegate setBeingRemoved:]: unrecognized selector sent to instance 0x79f31d10
+2016-04-04 22:53:16.339 PhoneGapTrial[11847:96146] Resetting plugins due to page load.
+2016-04-04 22:53:16.460 PhoneGapTrial[11847:96146] Finished load of: file:///Users/zom/Library/Developer/CoreSimulator/Devices/60A8D492-69CF-427C-89E3-FBC6C94AE0A5/data/Containers/Bundle/Application/55D3E351-4975-4F0B-A617-172BB24C0F55/PhoneGapTrial.app/www/getJSON.html
+2016-04-04 22:53:19.832 PhoneGapTrial[11847:96146] THREAD WARNING: ['File'] took '1043.937012' ms. Plugin should use a background thread.
+2016-04-04 22:53:20.934 PhoneGapTrial[11847:96146] THREAD WARNING: ['File'] took '1085.549316' ms. Plugin should use a background thread.
+2016-04-04 22:53:22.808 PhoneGapTrial[11847:96146] THREAD WARNING: ['File'] took '1856.509033' ms. Plugin should use a background thread.
